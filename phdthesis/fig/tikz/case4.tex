@@ -1,0 +1,29 @@
+\documentclass[tikz]{standalone}
+\newcommand{\printSQ}[3]{\filldraw [fill=#3, draw=black] (#1-0.5,#2-0.5) rectangle (#1+0.5,#2+0.5);}
+\begin{document}
+\begin{tikzpicture}[thick,scale=1,line join=round,>=latex]
+  \footnotesize
+  \foreach \i in {0,1,2,3,4} {
+      \draw (0,\i) -- (4,\i);
+      \draw (\i,0) -- (\i,4);
+    }
+  \draw [color=blue!63, line width=3] (1.5,2) -- (2.052,2);
+  \draw [color=blue!63, line width=3] (2,1.5) -- (2,2.052);
+  \foreach \i in {0,1,2,3} {
+      \foreach \j in {0,1,2,3} {
+          \draw (\i+0.5,\j+0.5) circle (0.15);
+          \ifnum \i > \j \else \draw [->] (\i+0.1,\j+0.5)--(\i+0.9,\j+0.5); \fi
+          \ifnum \i < \j \else \draw [->] (\i+0.5,\j+0.1)--(\i+0.5,\j+0.9); \fi
+        }
+    }
+  
+  \draw (0.5,-0.3) node{$i-1$};
+  \draw (1.5,-0.3) node{$i$};
+  \draw (2.5,-0.3) node{$i+1$};
+  \draw (3.5,-0.3) node{$i+2$};
+  \draw (-0.5,0.5) node{$j-1$};
+  \draw (-0.5,1.5) node{$j$};
+  \draw (-0.5,2.5) node{$j+1$};
+  \draw (-0.5,3.5) node{$j+2$};
+\end{tikzpicture}
+\end{document}

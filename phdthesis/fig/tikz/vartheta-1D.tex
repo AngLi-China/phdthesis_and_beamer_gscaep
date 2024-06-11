@@ -1,0 +1,22 @@
+\documentclass[tikz]{standalone}
+\usetikzlibrary{arrows.meta,decorations.pathreplacing,calligraphy}
+\usepackage{amsmath}
+\usepackage{xeCJK}
+\setCJKmainfont{SimSun}[AutoFakeBold={4}]
+\begin{document}
+\begin{tikzpicture}[thick,scale=.6,line join=round,>=latex]
+  \draw [->](0,0)--(24,0) node [right]{$\vartheta$};
+  \node at (0.2,0) {$\bullet$}; \draw (0.2,0) node [below]{$1$};
+  
+  \path[draw = black, dashed] (13.8,-0.1) -- (13.8,1.5) node [above]{$\bar\vartheta$};
+  
+  \draw [decorate,decoration = {calligraphic brace,raise=5pt,aspect=0.5,amplitude=3pt}] (0,0) -- (13.8,0) node[pos=0.5, above=5pt]{$v_{i+\frac{1}{2},-}^{\text{HHC-$4$}} = v_{i+\frac{1}{2},-}^{f}$};
+  \draw [decorate,decoration = {calligraphic brace,raise=5pt,aspect=0.45,amplitude=3pt}] (13.8,0) -- (24,0) node[pos=0.45, above=5pt]{$v_{i+\frac{1}{2},-}^{\text{HHC-$4$}} = v_{i+\frac{1}{2},-}^{s}$};
+  \fill[white] (23.28,0.45) rectangle (24.12,0.2);
+  
+  \draw [decorate,decoration = {calligraphic brace,raise=15pt,aspect=0.55,amplitude=3pt}] (24,0) -- (14.4,0) node[pos=0.55, below=15pt]{间断附近};
+  \draw [decorate,decoration = {calligraphic brace,raise=15pt,aspect=0.5,amplitude=3pt}] (14.4,0) -- (9.6,0) node[pos=0.5, below=15pt]{混合区域};
+  \draw [decorate,decoration = {calligraphic brace,raise=15pt,aspect=0.5,amplitude=3pt}] (9.6,0) -- (0,0) node[pos=0.5, below=15pt]{光滑区域};
+  \fill[white] (23.28,-0.5) rectangle (24.12,-0.8);
+\end{tikzpicture}
+\end{document}

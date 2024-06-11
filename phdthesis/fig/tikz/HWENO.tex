@@ -1,0 +1,22 @@
+\documentclass[tikz]{standalone}
+\usetikzlibrary{arrows.meta,decorations.pathreplacing,calligraphy}
+\usepackage{xeCJK}
+\setCJKmainfont{SimSun}[AutoFakeBold={4}]
+\begin{document}
+\begin{tikzpicture}[thick,scale=0.4,line join=round,>=latex]
+  \foreach \i in {-2,-1,0,1,2}{
+      \draw (\i*6-3,0)--(\i*6-3,1);
+      \draw (\i*6-3,0)--(\i*6+3,0);
+      \draw (\i*6+3,0)--(\i*6+3,1);
+    }
+  \node at (-12,-1) {$I_{i-2}$};
+  \node at (-6,-1) {$I_{i-1}$};
+  \node at (0,-1) {$I_{i}$};
+  \node at (6,-1) {$I_{i+1}$};
+  \node at (12,-1) {$I_{i+2}$};
+  
+  \draw [decorate,decoration = {calligraphic brace,raise=20pt,aspect=0.5,amplitude=3pt}] (15,0) -- (-15,0) node[pos=0.5, below=20pt]{五阶WENO};
+  
+  \draw [decorate,decoration = {calligraphic brace,raise=20pt,aspect=0.5,amplitude=3pt}] (-9,0) -- (9,0) node[pos=0.5, above=20pt]{五阶HWENO};
+\end{tikzpicture}
+\end{document}

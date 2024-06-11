@@ -1,0 +1,50 @@
+{
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk (xelatex)",
+      "tools": [
+        "xelatexmk"
+      ]
+    },
+    {
+      "name": "xelatex",
+      "tools": [
+        "xelatex"
+      ]
+    }
+  ],
+  "latex-workshop.latex.tools": [
+    {
+      "name": "xelatexmk",
+      "command": "./run",
+      "args": [
+        "latexmk-xe"
+      ]
+    }, {
+      "name": "xelatex",
+      "command": "./run",
+      "args": [
+        "xelatex"
+      ]
+    }
+  ],
+  "latex-workshop.latex.clean.command": "./run",
+  "latex-workshop.latex.clean.args": [
+    "clean"
+  ],
+  "latex-workshop.latex.autoClean.run": "onFailed",
+  "gremlins.characters": {    
+    "201c": {
+      "level": "none"
+    },
+    "201d": {
+      "level": "none"
+    },
+    "2018": {
+      "level": "none"
+    },
+    "2019": {
+      "level": "none"
+    },
+  }
+}

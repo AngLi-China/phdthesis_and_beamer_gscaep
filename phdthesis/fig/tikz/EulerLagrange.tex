@@ -1,0 +1,201 @@
+\documentclass[tikz]{standalone}
+\usepackage{xeCJK}
+\setCJKmainfont{SimSun}[AutoFakeBold={4}]
+\begin{document}
+\begin{tikzpicture}[thick,scale=1.3,line join=round,>=latex]
+  \draw (0,11.5) -- (10,11.5) node [right] {$t=t^{n}$};
+  \draw (0,13.5) -- (10,13.5) node [right] {$t=t^{n+1}$};
+  \draw[->] (0,11.5) -- (0,14) node [above] {$t$};
+  
+  \node at (1,11.5) {$\bigcirc$};
+  \node at (3,11.5) {$\bigcirc$};
+  \node at (5,11.5) {$\bigcirc$};
+  \node at (7,11.5) {$\bigcirc$};
+  \node at (9,11.5) {$\bigcirc$};
+  
+  \draw[dashed] (1,11.5) -- (1,13.5);
+  \draw[dashed] (3,11.5) -- (3,13.5);
+  \draw[dashed] (5,11.5) -- (5,13.5);
+  \draw[dashed] (7,11.5) -- (7,13.5);
+  \draw[dashed] (9,11.5) -- (9,13.5);
+  
+  \node at (1,13.5) {$\bigcirc$};
+  \node at (3,13.5) {$\bigcirc$};
+  \node at (5,13.5) {$\bigcirc$};
+  \node at (7,13.5) {$\bigcirc$};
+  \node at (9,13.5) {$\bigcirc$};
+  
+  \node at (1,11.5) {$\Delta$};
+  \node at (3,11.5) {$\Delta$};
+  \node at (5,11.5) {$\Delta$};
+  \node at (7,11.5) {$\Delta$};
+  \node at (9,11.5) {$\Delta$};
+  
+  \draw (1,11.5) -- (0.4,13.5);
+  \draw (3,11.5) -- (1.8,13.5);
+  \draw (5,11.5) -- (3.9,13.5);
+  \draw (7,11.5) -- (7.6,13.5);
+  \draw (9,11.5) -- (9.6,13.5);
+  
+  \node at (0.4,13.5) {$\Delta$};
+  \node at (1.8,13.5) {$\Delta$};
+  \node at (3.9,13.5) {$\Delta$};
+  \node at (7.6,13.5) {$\Delta$};
+  \node at (9.6,13.5) {$\Delta$};
+  
+  \node at (5,11) {(a) 欧拉方法};
+  
+  \draw (0,8) -- (10,8) node [right] {$t=t^{n}$};
+  \draw (0,10) -- (10,10) node [right] {$t=t^{n+1}$};
+  \draw[->] (0,8) -- (0,10.5) node [above] {$t$};
+  
+  \node at (1,8) {$\bigcirc$};
+  \node at (3,8) {$\bigcirc$};
+  \node at (5,8) {$\bigcirc$};
+  \node at (7,8) {$\bigcirc$};
+  \node at (9,8) {$\bigcirc$};
+  
+  \draw[dashed] (1,8) -- (0.4,10);
+  \draw[dashed] (3,8) -- (1.8,10);
+  \draw[dashed] (5,8) -- (3.9,10);
+  \draw[dashed] (7,8) -- (7.6,10);
+  \draw[dashed] (9,8) -- (9.6,10);
+  
+  \node at (0.4,10) {$\bigcirc$};
+  \node at (1.8,10) {$\bigcirc$};
+  \node at (3.9,10) {$\bigcirc$};
+  \node at (7.6,10) {$\bigcirc$};
+  \node at (9.6,10) {$\bigcirc$};
+  
+  \node at (1,8) {$\Delta$};
+  \node at (3,8) {$\Delta$};
+  \node at (5,8) {$\Delta$};
+  \node at (7,8) {$\Delta$};
+  \node at (9,8) {$\Delta$};
+  
+  \draw (1,8) -- (0.4,10);
+  \draw (3,8) -- (1.8,10);
+  \draw (5,8) -- (3.9,10);
+  \draw (7,8) -- (7.6,10);
+  \draw (9,8) -- (9.6,10);
+  
+  \node at (0.4,10) {$\Delta$};
+  \node at (1.8,10) {$\Delta$};
+  \node at (3.9,10) {$\Delta$};
+  \node at (7.6,10) {$\Delta$};
+  \node at (9.6,10) {$\Delta$};
+  
+  \node at (5,7.5) {(b) 拉格朗日方法};
+  
+  \draw (0,4.5) -- (10,4.5) node [right] {$t=t^{n}$};
+  \draw (0,6.5) -- (10,6.5) node [right] {$t=t^{n+1}$};
+  \draw[->] (0,4.5) -- (0,7) node [above] {$t$};
+  
+  \node at (1,4.5) {$\bigcirc$};
+  \node at (3,4.5) {$\bigcirc$};
+  \node at (5,4.5) {$\bigcirc$};
+  \node at (7,4.5) {$\bigcirc$};
+  \node at (9,4.5) {$\bigcirc$};
+  
+  \draw[dashed] (1,4.5) -- (1,6.5);
+  \draw[dashed] (3,4.5) -- (2,6.5);
+  \draw[dashed] (5,4.5) -- (4,6.5);
+  \draw[dashed] (7,4.5) -- (8,6.5);
+  \draw[dashed] (9,4.5) -- (9,6.5);
+  
+  \node at (1,6.5) {$\bigcirc$};
+  \node at (2,6.5) {$\bigcirc$};
+  \node at (4,6.5) {$\bigcirc$};
+  \node at (8,6.5) {$\bigcirc$};
+  \node at (9,6.5) {$\bigcirc$};
+  
+  \node at (1,4.5) {$\Delta$};
+  \node at (3,4.5) {$\Delta$};
+  \node at (5,4.5) {$\Delta$};
+  \node at (7,4.5) {$\Delta$};
+  \node at (9,4.5) {$\Delta$};
+  
+  \draw (1,4.5) -- (0.4,6.5);
+  \draw (3,4.5) -- (1.8,6.5);
+  \draw (5,4.5) -- (3.9,6.5);
+  \draw (7,4.5) -- (7.6,6.5);
+  \draw (9,4.5) -- (9.6,6.5);
+  
+  \node at (0.4,6.5) {$\Delta$};
+  \node at (1.8,6.5) {$\Delta$};
+  \node at (3.9,6.5) {$\Delta$};
+  \node at (7.6,6.5) {$\Delta$};
+  \node at (9.6,6.5) {$\Delta$};
+  
+  \node at (5,4) {(c) 直接任意拉格朗日-欧拉方法};
+  
+  \draw (0,1) -- (10,1) node [right] {$t=t^n$};
+  \draw (0,2.5) -- (10,2.5) node [right] {$t=t^{n+1}$};
+  \node [right] at (10,2.25) {（重分重映前）};
+  \draw (0,3) -- (10,3) node [right] {$t=t^{n+1}$};
+  \node [right] at (10,2.75) {（重分重映后）};
+  \draw[->] (0,1) -- (0,3.5) node [above] {$t$};
+  
+  \node at (1,1) {$\bigcirc$};
+  \node at (3,1) {$\bigcirc$};
+  \node at (5,1) {$\bigcirc$};
+  \node at (7,1) {$\bigcirc$};
+  \node at (9,1) {$\bigcirc$};
+  
+  \draw[dashed] (1,1) -- (0.4,2.5);
+  \draw[dashed] (3,1) -- (1.8,2.5);
+  \draw[dashed] (5,1) -- (3.9,2.5);
+  \draw[dashed] (7,1) -- (7.6,2.5);
+  \draw[dashed] (9,1) -- (9.6,2.5);
+  
+  \node at (0.4,2.5) {$\bigcirc$};
+  \node at (1.8,2.5) {$\bigcirc$};
+  \node at (3.9,2.5) {$\bigcirc$};
+  \node at (7.6,2.5) {$\bigcirc$};
+  \node at (9.6,2.5) {$\bigcirc$};
+  
+  \draw[dashed] (0.4,2.5) -- (1,3);
+  \draw[dashed] (1.8,2.5) -- (2,3);
+  \draw[dashed] (3.9,2.5) -- (4,3);
+  \draw[dashed] (7.6,2.5) -- (8,3);
+  \draw[dashed] (9.6,2.5) -- (9,3);
+  
+  \node at (1,3) {$\bigcirc$};
+  \node at (2,3) {$\bigcirc$};
+  \node at (4,3) {$\bigcirc$};
+  \node at (8,3) {$\bigcirc$};
+  \node at (9,3) {$\bigcirc$};
+  
+  \node at (1,1) {$\Delta$};
+  \node at (3,1) {$\Delta$};
+  \node at (5,1) {$\Delta$};
+  \node at (7,1) {$\Delta$};
+  \node at (9,1) {$\Delta$};
+  
+  \draw (1,1) -- (0.4,2.5);
+  \draw (3,1) -- (1.8,2.5);
+  \draw (5,1) -- (3.9,2.5);
+  \draw (7,1) -- (7.6,2.5);
+  \draw (9,1) -- (9.6,2.5);
+  
+  \node at (0.4,2.5) {$\Delta$};
+  \node at (1.8,2.5) {$\Delta$};
+  \node at (3.9,2.5) {$\Delta$};
+  \node at (7.6,2.5) {$\Delta$};
+  \node at (9.6,2.5) {$\Delta$};
+  
+  \draw (0.4,2.5) -- (0.4,3);
+  \draw (1.8,2.5) -- (1.8,3);
+  \draw (3.9,2.5) -- (3.9,3);
+  \draw (7.6,2.5) -- (7.6,3);
+  \draw (9.6,2.5) -- (9.6,3);
+  
+  \node at (0.4,3) {$\Delta$};
+  \node at (1.8,3) {$\Delta$};
+  \node at (3.9,3) {$\Delta$};
+  \node at (7.6,3) {$\Delta$};
+  \node at (9.6,3) {$\Delta$};
+  
+  \node at (5,0.5) {(d) 间接任意拉格朗日-欧拉方法};
+\end{tikzpicture}
+\end{document}

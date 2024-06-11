@@ -1,0 +1,22 @@
+#!/bin/bash
+if [ "$1" == "clean" ]; then
+  rm -rf temp >/dev/null 2>/dev/null
+  cd fig/tikz
+  make clean --silent
+  exit 0
+elif [ "$1" == "xelatex" ]; then
+  xelatex main --aux-directory=./temp -synctex=1 -halt-on-error -file-line-error
+elif [ "$1" == "latexmk-xe" ]; then
+  cd fig/tikz # 进入fig目录编译tikzfig子图
+  make
+  cd ../..
+  latexmk main --aux-directory=./temp -xelatex -synctex=1 -halt-on-error -file-line-error
+elif [ "$1" == "word" ]; then
+  cd fig/tikz # 进入fig目录编译tikzfig子图
+  make
+  cd ../..
+  rm -f main.docx >/dev/null 2>/dev/null
+  pandoc -w docx --pdf-engine xelatex -M autoEqnLabels -M tableEqns --filter pandoc-crossref --bibliography=reference.bib -M tableTitle=表 -M figureTitle=图 -M tabPrefix=表 -M figPrefix=图 --reference-doc=pandoc-ref.docx extra/abstract.tex chapter1/chapter1.tex chapter2/chapter2.tex chapter3/chapter3.tex chapter4/chapter4.tex chapter5/chapter5.tex -o main.docx
+else
+  exit -1
+fi

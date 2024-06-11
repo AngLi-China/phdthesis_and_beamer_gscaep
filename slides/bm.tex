@@ -1,0 +1,390 @@
+\newcommand{\monthyeardate}{\ifcase \month \or Jan.\or Feb.\or Mar.\or Apr.\or May \or Jun.\or Jul.\or Aug.\or Sept.\or Oct.\or Nov.\or Dec.\fi~\number\year}
+\newcommand{\insertframetitle}{}
+\date{\monthyeardate}
+
+\setbeamertemplate{caption}[numbered]
+\setbeamertemplate{frametitle continuation}{}
+\setbeamertemplate{bibliography item}[text]
+\mode<presentation> {
+  \usetheme{Madrid}
+  \usefonttheme{professionalfonts}
+  \setbeamertemplate{headline}{}
+  
+  \renewcommand*\footnoterule{%
+    \usebeamercolor[fg]{block title}%
+    \usebeamerfont{block title}%    
+    Refereces%
+    \vskip.5\baselineskip%
+  }
+  
+  \setbeamertemplate{footnote}
+  {
+    \parindent 1em\noindent%
+    \raggedright
+    \hbox to 0.4em{\hfil\insertfootnotemark}\insertfootnotetext\par%
+  }
+  \setbeamertemplate{footline}{
+    % author: Ang, Li (ang.li.1997@icloud.com)
+    \leavevmode%
+    \hbox{%
+      \begin{beamercolorbox}[wd=.18\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+        \usebeamerfont{author in head/foot}\insertshortauthor
+      \end{beamercolorbox}%
+      \begin{beamercolorbox}[wd=.64\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+        \usebeamerfont{title in head/foot}\insertshorttitle
+        \ifdefempty{\insertsectionhead}{}{
+          \hspace*{1em}$\blacktriangleright$\hspace*{1em}
+          \usebeamerfont{section in head/foot}\insertsectionhead
+        }
+        \ifdefempty{\insertsubsectionhead}{}{
+          \hspace*{1em}$\blacktriangleright$\hspace*{1em}
+          \usebeamerfont{subsection in head/foot}\insertsubsectionhead
+        }
+        % \ifdefempty{\insertframetitle}{}{
+        %   \hspace*{1em}$\blacktriangleright$\hspace*{1em}
+        %   \usebeamerfont{section in head/foot}\insertframetitle
+        % }
+      \end{beamercolorbox}%
+      \begin{beamercolorbox}[wd=0.18\paperwidth,ht=2.25ex,dp=1ex,right]{author in head/foot}%
+        \usebeamerfont{date in head/foot}\insertshortdate \hspace*{2em}
+        \insertframenumber{} / \inserttotalframenumber \hspace*{1em}
+      \end{beamercolorbox}}%
+    \vskip0pt%
+  }
+  \beamertemplatenavigationsymbolsempty
+}
+
+\RequirePackage{graphicx} % Allows including images
+\RequirePackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
+\RequirePackage{multirow}
+\RequirePackage{color}
+\RequirePackage{bm}
+\RequirePackage{amsthm}
+\RequirePackage{amsmath}
+\RequirePackage{amssymb}
+\RequirePackage{mathabx}
+\RequirePackage{epstopdf}
+\RequirePackage{animate}
+\RequirePackage{multirow}
+\RequirePackage{enumerate}
+\RequirePackage{multicol}
+
+\RequirePackage[style=authoryear,sorting=none]{biblatex}
+\setbeamertemplate{bibliography item}{~~$\blacktriangleright $}
+\definecolor{brightmaroon}{rgb}{0.76, 0.13, 0.28}
+\definecolor{myblue}{rgb}{0.15, 0.29, 0.93}
+\newcommand{\citep}[1]{{\color{myblue}(\cite{#1})}}
+\renewcommand*{\nameyeardelim}{\addcomma\space}
+
+\setbeamerfont{author}{size=\Large}
+\setbeamerfont{institute}{size=\small}
+\setbeamerfont{footnote}{size=\tiny}
+\RequirePackage{siunitx}
+\RequirePackage{xcolor}
+\RequirePackage{listings}
+\RequirePackage{algorithm}
+\RequirePackage{algpseudocode}
+\RequirePackage{subfigure}
+\RequirePackage{cleveref}
+\RequirePackage{tcolorbox}
+\RequirePackage{tikz}
+\RequirePackage{ctex}
+
+\setbeamercovered{highly dynamic}
+
+\makeatletter
+% save the meaning of \@footnotetext
+\let\BEAMER@footnotetext\@footnotetext
+\makeatother
+
+\RequirePackage{setspace}
+
+\makeatletter
+% restore the meaning of \@footnotetext
+\let\@footnotetext\BEAMER@footnotetext
+% patch the relevant command to do single spacing in footnotes
+\expandafter\patchcmd\csname beamerx@\string\beamer@framefootnotetext\endcsname
+{\reset@font}
+{\def\baselinestretch{\setspace@singlespace}\reset@font}
+{}{}
+\makeatother
+
+\newenvironment<>{varblock}[2][.9\textwidth]{%
+  \setlength{\textwidth}{#1}
+  \begin{actionenv}#3%
+    \def\insertblocktitle{#2}%
+    \par%
+    \usebeamertemplate{block begin}}
+    {\par%
+    \usebeamertemplate{block end}%
+  \end{actionenv}}
+
+\setbeamertemplate{theorems}[numbered]
+
+\renewcommand{\Call}{\textbf{Call~}}
+\algnewcommand{\IIf}[1]{\State\algorithmicif\ #1\ \algorithmicthen}
+\algnewcommand{\ElseII}{\algorithmicelse\ }
+\algnewcommand{\EndIIf}{\unskip\ \algorithmicend\ \algorithmicif}
+\newcommand{\hl}[1]{{\bfseries\color{myblue}{#1}}}
+\newcommand{\HL}[1]{{\color{myblue}{#1}}}
+\newcommand{\redhl}[1]{{\bfseries\color{brightmaroon}{#1}}}
+\newcommand{\redHL}[1]{{\color{brightmaroon}{#1}}}
+\lstset{
+  language=C++,
+  numbers=left,
+  keywordstyle= \color{blue!70},
+  commentstyle= \color{red!50!green!50!blue!50},
+  frame=tb,
+  rulesepcolor= \color{red!20!green!20!blue!20} ,
+  xleftmargin=2em, aboveskip=1em,
+  framexleftmargin=2em
+}
+
+\ifundef{\outlinecols}{\newcommand{\outlinecols}{1}}{}
+\ifnum \outlinecols > 1
+  \newcommand{\liangoutline}{
+    \begin{multicols}{\outlinecols}
+      \tableofcontents[hidesubsections,pausesections]
+    \end{multicols}
+  }
+  \newcommand{\liangoutlinesection}{
+    \begin{multicols}{\outlinecols}
+      \tableofcontents[currentsection,hideothersubsections]
+    \end{multicols}
+  }
+  \newcommand{\liangoutlinesubsection}{
+    \begin{multicols}{\outlinecols}
+      \tableofcontents[currentsection,subsectionstyle=show/shaded/hide]
+    \end{multicols}
+  }
+\else
+  \newcommand{\liangoutline}{
+    \tableofcontents[hidesubsections,pausesections]
+  }
+  \newcommand{\liangoutlinesection}{
+    \tableofcontents[currentsection,hideothersubsections]
+  }
+  \newcommand{\liangoutlinesubsection}{
+    \tableofcontents[currentsection,subsectionstyle=show/shaded/hide]
+  }
+  
+\fi
+
+\newcommand{\outlineframe}{
+  \begin{frame}
+    \liangoutline
+  \end{frame}
+}
+
+\AtBeginSection[]
+{
+  \begin{frame}
+    \liangoutlinesection
+  \end{frame}
+}
+\AtBeginSubsection[]
+{
+  \begin{frame}
+    \liangoutlinesubsection
+  \end{frame}
+}
+\newcommand{\ThankFrame}{
+  \section*{请老师和同学们批评指正！}
+  \begin{frame}
+    \kai\fontsize{60pt}{60pt}\selectfont
+    {\centerline{请老师和同学们}}
+    {\centerline{批评指正!}}
+  \end{frame}
+}
+\newcommand{\RefFrame}{
+  \section*{Referencs}
+  \begin{frame}[allowframebreaks]{Referencs}
+    \printbibliography
+  \end{frame}
+}
+
+\newenvironment{tabenumerate}[1]{
+  \begin{columns}
+    \begin{column}{#1}\end{column}
+    \begin{column}{\textwidth-#1}
+      \begin{enumerate}[<+->]
+        }{
+      \end{enumerate}
+    \end{column}
+  \end{columns}
+}
+
+
+\def\Xint#1{\mathchoice
+  {\XXint\displaystyle\textstyle{#1}}%	
+  {\XXint\textstyle\scriptstyle{#1}}%	
+  {\XXint\scriptstyle\scriptscriptstyle{#1}}%	
+  {\XXint\scriptscriptstyle\scriptscriptstyle{#1}}%	
+  \!\int}
+
+\def\XXint#1#2#3{{\setbox0=\hbox{$#1{#2#3}{\int}$}
+      \vcenter{\hbox{$#2#3$}}\kern-.5\wd0}}
+\def\ddashint{\Xint=}
+\def\dashint{\Xint-}
+
+\newcommand{\colorBOX}[5][myblue!10]{%
+  \vspace{-2mm}%
+  \begin{center}%
+    \begin{tcolorbox}[colback=#1, width=#2, colframe=white, arc=1mm, auto outer arc, boxrule=0pt]%
+      \vspace{#3}%-5mm
+      #5%
+      \vspace{#4}%-7mm
+    \end{tcolorbox}%
+  \end{center}%
+}
+
+\newcommand{\FigAndTex}[3][.5\textwidth]{
+  \begin{columns}
+    \begin{column}{#1}
+      \begin{center}
+        #2
+      \end{center}
+    \end{column}
+    \begin{column}{\textwidth-#1}
+      #3
+    \end{column}
+  \end{columns}
+}
+
+\newcommand{\TextAndFig}[3][.5\textwidth]{
+  \begin{columns}
+    \begin{column}{#1}
+      #2
+    \end{column}
+    \begin{column}{\textwidth-#1}
+      \begin{center}
+        #3
+      \end{center}
+    \end{column}
+  \end{columns}
+}
+
+\usepackage{xpatch}
+\xpatchcmd{\itemize}{\def\makelabel}{%
+  \setlength{\itemsep}{2ex}%
+  \setlength{\parsep}{1ex}%
+  \def\makelabel%
+}{}{}
+
+\setsansfont{Times New Roman}
+\newCJKfontfamily\song{SimSun}[AutoFakeBold={4}]
+\newCJKfontfamily\kai{KaiTi}[AutoFakeBold={4}]
+\newCJKfontfamily\hei{SimHei}[AutoFakeBold={4}]
+\newCJKfontfamily\xingkai{Xingkai SC Light}[AutoFakeBold={4}]
+
+\setbeamerfont{normal text}{family=\kai,series=\mdseries} % ignored currently
+\setbeamerfont{alerted text}{family=\kai,series=\mdseries}
+\setbeamerfont{example text}{family=\kai,series=\mdseries}
+
+\setbeamerfont{structure}{}
+\setbeamerfont{tiny structure}{size=\tiny}
+
+\setbeamerfont{title}{size=\Large,parent=structure,family=\hei,series=\bfseries}
+\setbeamerfont{title in head/foot}{family=\pingfang,series=\mdseries}
+\setbeamerfont{title in sidebar}{size=\tiny}
+
+\setbeamerfont{subtitle}{size=\normalsize,parent=title,family=\hei,series=\bfseries}
+
+\setbeamerfont{author}{size=\Large,family=\pingfang,series=\mdseries}
+\setbeamerfont{author in head/foot}{family=\pingfang,series=\mdseries}
+\setbeamerfont{author in sidebar}{size=\tiny}
+
+\setbeamerfont{institute}{size=\normalsize,family=\kai,series=\mdseries}
+\setbeamerfont{institute in head/foot}{family=\pingfang,series=\mdseries}
+\setbeamerfont{institute in sidebar}{}
+
+\setbeamerfont{date}{size=\normalsize,family=\kai,series=\mdseries}
+\setbeamerfont{date in head/foot}{family=\pingfang,series=\mdseries}
+\setbeamerfont{date in sidebar}{}
+
+\setbeamerfont{page number in head/foot}{family=\pingfang,series=\mdseries}
+
+\setbeamerfont{part name}{size=\LARGE}
+\setbeamerfont{part title}{size=\LARGE,parent=title}
+
+\setbeamerfont{section name}{size=\Large}
+\setbeamerfont{section title}{size=\Large,parent=title}
+
+\setbeamerfont{section in toc}{parent=structure}
+\setbeamerfont{section in toc shaded}{parent=section in toc}
+\setbeamerfont{section in head/foot}{family=\pingfang,series=\mdseries}
+\setbeamerfont{section in sidebar}{size=\tiny}
+\setbeamerfont{section number projected}{size=\small,parent={section in toc,projected text}}
+
+\setbeamerfont{subsection name}{size=\large}
+\setbeamerfont{subsection title}{size=\large,parent=title}
+
+\setbeamerfont{subsection in toc}{}
+\setbeamerfont{subsection in toc shaded}{parent=subsection in toc}
+\setbeamerfont{subsection in head/foot}{family=\pingfang,series=\mdseries}
+\setbeamerfont{subsection in sidebar}{}
+
+\setbeamerfont{subsubsection in toc}{size=\footnotesize}
+\setbeamerfont{subsubsection in toc shaded}{parent=subsubsection in toc}
+\setbeamerfont{subsubsection in head/foot}{family=\pingfang,series=\mdseries}
+\setbeamerfont{subsubsection in sidebar}{}
+
+\setbeamerfont{headline}{parent={tiny structure}}
+\setbeamerfont{footline}{parent={tiny structure}}
+
+\setbeamerfont{sidebar}{size=\Tiny,parent={tiny structure}}
+\setbeamerfont{sidebar left}{parent=sidebar}
+\setbeamerfont{sidebar right}{parent=sidebar}
+
+\setbeamerfont{frametitle}{parent=structure,size=\Large}
+\setbeamerfont{framesubtitle}{parent=frametitle,size=\footnotesize}
+
+\setbeamerfont{caption}{size=\small,family=\kai,series=\mdseries}
+\setbeamerfont{caption name}{parent={structure,caption},family=\kai,series=\mdseries}
+
+\setbeamerfont{button}{size=\tiny,family=\kai,series=\mdseries}
+
+\setbeamerfont{block body}{family=\kai,series=\mdseries}
+\setbeamerfont{block body alerted}{family=\kai,series=\mdseries}
+\setbeamerfont{block body example}{family=\kai,series=\mdseries}
+\setbeamerfont{block title}{size=\large,parent={structure,block body}}
+\setbeamerfont{block title alerted}{parent={block title,alerted text}}
+\setbeamerfont{block title example}{parent={block title,example text}}
+
+\setbeamerfont{item}{family=\kai,series=\mdseries,parent=structure}
+\setbeamerfont{subitem}{parent=item}
+\setbeamerfont{subsubitem}{parent=subitem}
+
+\setbeamerfont{item projected}{size=\tiny,parent={item,projected text}}
+\setbeamerfont{subitem projected}{parent=item projected}
+\setbeamerfont{subsubitem projected}{parent=subitem projected}
+
+\setbeamerfont{itemize item}{parent=item}
+\setbeamerfont{itemize subitem}{parent=subitem}
+\setbeamerfont{itemize subsubitem}{parent=subsubitem}
+
+\setbeamerfont{enumerate item}{parent=item}
+\setbeamerfont{enumerate subitem}{parent=subitem}
+\setbeamerfont{enumerate subsubitem}{parent=subsubitem}
+
+\setbeamerfont{itemize/enumerate body}{family=\kai,series=\mdseries}
+\setbeamerfont{itemize/enumerate subbody}{family=\kai,series=\mdseries}
+\setbeamerfont{itemize/enumerate subsubbody}{family=\kai,series=\mdseries}
+
+\setbeamerfont{description item}{family=\kai,series=\mdseries,parent=item}
+
+\setbeamerfont{description body}{family=\kai,series=\mdseries}
+
+\setbeamerfont{projected text}{parent={tiny structure}}
+
+\setbeamerfont{abstract}{size=\small}
+\setbeamerfont{abstract title}{parent={abstract,structure},size=\normalsize}
+
+\setbeamerfont{verse}{family=\rmfamily,shape=\itshape}
+
+\setbeamerfont{quotation}{shape=\itshape}
+\setbeamerfont{quote}{parent=quotation}
+
+\setbeamerfont{note page}{size=\small}
+\setbeamerfont{note title}{parent=note page}
+\setbeamerfont{note date}{size=\footnotesize}

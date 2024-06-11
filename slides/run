@@ -1,0 +1,10 @@
+#!/bin/bash
+if [ "$1" == "clean" ]; then
+  rm -rf temp >/dev/null 2>/dev/null
+elif [ "$1" == "xelatex" ]; then
+  xelatex main --aux-directory=./temp -synctex=1 -halt-on-error -file-line-error
+elif [ "$1" == "latexmk-xe" ]; then
+  latexmk main --aux-directory=./temp -xelatex -synctex=1 -halt-on-error -file-line-error
+else
+  exit -1
+fi

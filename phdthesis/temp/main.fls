@@ -1,0 +1,842 @@
+PWD /Users/only/data/工作/2.九所/5.毕业/phdthesis
+INPUT /Users/only/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/xetex/xelatex.fmt
+INPUT main.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.log
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/ctexbook.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/ctexbook.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctexbackend.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctexbackend.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctexbackend.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-xetex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-xetex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/engine/ctex-engine-xetex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/ctexhook.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/ctexhook.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/ctexpatch.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/ctexpatch.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fix-cm.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fix-cm.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ts1enc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctexopts.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctexopts.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/book.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/book.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk12.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk12.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk12.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/engine/ctex-engine-xetex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/xelatex/xecjk/xeCJK.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/xelatex/xecjk/xeCJK.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/cjk/CJKfntef.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/xelatex/xecjk/xeCJKfntef.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xtemplate/xtemplate.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xtemplate/xtemplate.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec/fontspec.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec/fontspec.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec/fontspec-xetex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec/fontspec-xetex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec/fontspec.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec/fontspec.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec/fontspec.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/xelatex/xecjk/xeCJK.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/xelatex/xecjk/xeCJK.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/zhnumber/zhnumber.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/zhnumber/zhnumber.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/zhnumber/zhnumber-utf8.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/zhnumber/zhnumber-utf8.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/scheme/ctex-scheme-chinese-book.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/scheme/ctex-scheme-chinese-book.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctex-name-utf8.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctex-name-utf8.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/ctex-cs4size.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/ctex-cs4size.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/fontset/ctex-fontset-windows.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/fontset/ctex-fontset-windows.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctex.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctex.cfg
+INPUT ./extra/setup/type.tex
+INPUT ./extra/setup/type.tex
+INPUT ./extra/setup/type.tex
+INPUT ./extra/setup/type.tex
+INPUT ./extra/setup/type.tex
+INPUT extra/setup/type.tex
+INPUT ./extra/setup/package.tex
+INPUT ./extra/setup/package.tex
+INPUT ./extra/setup/package.tex
+INPUT ./extra/setup/package.tex
+INPUT ./extra/setup/package.tex
+INPUT extra/setup/package.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/xetex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/xetex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/xetex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titletoc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titletoc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/placeins/placeins.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/placeins/placeins.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/flafter.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/flafter.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/booktabs/booktabs.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/booktabs/booktabs.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/tabularx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/tabularx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/ltcaption.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/ltcaption.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfigure/subfigure.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfigure/subfigure.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfigure/subfigure.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfigure/subfigure.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfigure/subfigure.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ccaption/ccaption.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ccaption/ccaption.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/natbib/natbib.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/natbib/natbib.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/enumitem/enumitem.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/enumitem/enumitem.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/txfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/txfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/bm.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/bm.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/theorem.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/theorem.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/thp.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/thp.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/thp.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ulem/ulem.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ulem/ulem.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/latex-fonts/lasy6.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/verbatim.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/verbatim.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/mathrsfs.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/mathrsfs.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/ot1txr.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/ot1txr.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/ot1txr.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/times.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/times.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/anyfontsize/anyfontsize.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/anyfontsize/anyfontsize.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/xstring/xstring.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/xstring/xstring.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/xstring/xstring.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/zapfding/pzdr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/atbegshi/atbegshi.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hxetex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hxetex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hxetex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/stringenc/stringenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/stringenc/stringenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/atveryend/atveryend.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-ltx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-ltx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/algorithm2e/algorithm2e.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/algorithm2e/algorithm2e.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/xspace.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/xspace.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/relsize/relsize.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/relsize/relsize.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/cleveref/cleveref.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/cleveref/cleveref.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/aliascnt.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/aliascnt.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/silence/silence.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/silence/silence.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/Definition.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/Definition.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/Definition.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/format.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/format.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/format.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/cover.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/cover.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/cover.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/Authorization.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/Authorization.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/Authorization.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/abstract.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/abstract.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/abstract.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/content.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/content.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/content.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter1/chapter1.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter1/chapter1.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter1/chapter1.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter2/chapter2.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter2/chapter2.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter2/chapter2.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter3/chapter3.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter3/chapter3.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter3/chapter3.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter4/chapter4.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter4/chapter4.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter4/chapter4.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter5/chapter5.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter5/chapter5.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter5/chapter5.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/reference.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/reference.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/reference.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/publications.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/publications.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/publications.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/acknowledgements.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/acknowledgements.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/acknowledgements.aux
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.aux
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/omltxmi.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/omltxmi.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/omltxmi.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/omstxsy.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/omstxsy.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/omstxsy.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/omxtxex.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/omxtxex.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/omxtxex.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxexa.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxexa.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxexa.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/color.sty
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.out
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.out
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.out
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.out
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.out
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.out
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.out
+INPUT ./extra/setup/Definition.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/Definition.aux
+INPUT ./extra/setup/Definition.tex
+INPUT ./extra/setup/Definition.tex
+INPUT extra/setup/Definition.tex
+INPUT ./extra/setup/format.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/format.aux
+INPUT ./extra/setup/format.tex
+INPUT ./extra/setup/format.tex
+INPUT extra/setup/format.tex
+INPUT ./extra/cover.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/cover.aux
+INPUT ./extra/cover.tex
+INPUT ./extra/cover.tex
+INPUT extra/cover.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txex.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txex.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txex.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsya.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsya.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsya.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsya.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsya.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsya.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyb.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyb.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyb.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxmia.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxmia.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxmia.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyc.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyc.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyc.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbex.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbex.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbex.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/ursfs.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/ursfs.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/ursfs.fd
+INPUT /Users/only/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/only/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/only/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs5.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txex.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsya.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbex.tfm
+INPUT /Users/only/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.xdv
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT ./extra/Authorization.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/Authorization.aux
+INPUT ./extra/Authorization.tex
+INPUT ./extra/Authorization.tex
+INPUT extra/Authorization.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT ./extra/abstract.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/abstract.aux
+INPUT ./extra/abstract.tex
+INPUT ./extra/abstract.tex
+INPUT extra/abstract.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT ./extra/setup/content.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/content.aux
+INPUT ./extra/setup/content.tex
+INPUT ./extra/setup/content.tex
+INPUT extra/setup/content.tex
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.toc
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.toc
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.toc
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.toc
+INPUT ./chapter1/chapter1.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter1/chapter1.aux
+INPUT ./chapter1/chapter1.tex
+INPUT ./chapter1/chapter1.tex
+INPUT chapter1/chapter1.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT ./fig/tikz/EulerLagrange.pdf
+INPUT ./fig/tikz/EulerLagrange.pdf
+INPUT ./fig/tikz/EulerLagrange.pdf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txex.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txex.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txex.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsya.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsya.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsya.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txmia.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txsyc.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txexa.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txb.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbmi.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbsy.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbex.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbex.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/txfonts/txbex.tfm
+INPUT /Users/only/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/only/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs7.tfm
+INPUT /Users/only/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs5.tfm
+INPUT ./fig/tikz/HWENO.pdf
+INPUT ./fig/tikz/HWENO.pdf
+INPUT ./fig/tikz/HWENO.pdf
+INPUT ./fig/RP_wave_pattern.pdf
+INPUT ./fig/RP_wave_pattern.pdf
+INPUT ./fig/RP_wave_pattern.pdf
+INPUT ./fig/GRP_wave_pattern.pdf
+INPUT ./fig/GRP_wave_pattern.pdf
+INPUT ./fig/GRP_wave_pattern.pdf
+INPUT ./chapter2/chapter2.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter2/chapter2.aux
+INPUT ./chapter2/chapter2.tex
+INPUT ./chapter2/chapter2.tex
+INPUT chapter2/chapter2.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT ./chapter2/ta_ex1.tex
+INPUT ./chapter2/ta_ex1.tex
+INPUT chapter2/ta_ex1.tex
+INPUT ./chapter2/ta_ex2.tex
+INPUT ./chapter2/ta_ex2.tex
+INPUT chapter2/ta_ex2.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT ./fig/tikz/ghostcell.pdf
+INPUT ./fig/tikz/ghostcell.pdf
+INPUT ./fig/tikz/ghostcell.pdf
+INPUT ./chapter3/chapter3.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter3/chapter3.aux
+INPUT ./chapter3/chapter3.tex
+INPUT ./chapter3/chapter3.tex
+INPUT chapter3/chapter3.tex
+INPUT ./fig/GRP_wave_pattern.pdf
+INPUT ./fig/GRP_wave_pattern.pdf
+INPUT ./fig/GRP_wave_pattern.pdf
+INPUT ./fig/RP_wave_pattern.pdf
+INPUT ./fig/RP_wave_pattern.pdf
+INPUT ./fig/RP_wave_pattern.pdf
+INPUT ./fig/1D/pol40.pdf
+INPUT ./fig/1D/pol40.pdf
+INPUT ./fig/1D/pol40.pdf
+INPUT ./fig/1D/pol41.pdf
+INPUT ./fig/1D/pol41.pdf
+INPUT ./fig/1D/pol41.pdf
+INPUT ./fig/1D/pol60.pdf
+INPUT ./fig/1D/pol60.pdf
+INPUT ./fig/1D/pol60.pdf
+INPUT ./fig/1D/pol61.pdf
+INPUT ./fig/1D/pol61.pdf
+INPUT ./fig/1D/pol61.pdf
+INPUT ./fig/1D/pol62.pdf
+INPUT ./fig/1D/pol62.pdf
+INPUT ./fig/1D/pol62.pdf
+INPUT ./fig/1D/pol80.pdf
+INPUT ./fig/1D/pol80.pdf
+INPUT ./fig/1D/pol80.pdf
+INPUT ./fig/1D/pol81.pdf
+INPUT ./fig/1D/pol81.pdf
+INPUT ./fig/1D/pol81.pdf
+INPUT ./fig/1D/pol82.pdf
+INPUT ./fig/1D/pol82.pdf
+INPUT ./fig/1D/pol82.pdf
+INPUT ./fig/1D/pol83.pdf
+INPUT ./fig/1D/pol83.pdf
+INPUT ./fig/1D/pol83.pdf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT ./fig/tikz/vartheta-1D.pdf
+INPUT ./fig/tikz/vartheta-1D.pdf
+INPUT ./fig/tikz/vartheta-1D.pdf
+INPUT ./fig/tikz/compact-1D-flux.pdf
+INPUT ./fig/tikz/compact-1D-flux.pdf
+INPUT ./fig/tikz/compact-1D-flux.pdf
+INPUT ./fig/tikz/compact-1D-HC4.pdf
+INPUT ./fig/tikz/compact-1D-HC4.pdf
+INPUT ./fig/tikz/compact-1D-HC4.pdf
+INPUT ./fig/tikz/compact-1D-flux2.pdf
+INPUT ./fig/tikz/compact-1D-flux2.pdf
+INPUT ./fig/tikz/compact-1D-flux2.pdf
+INPUT ./fig/tikz/compact-1D-HWENO5.pdf
+INPUT ./fig/tikz/compact-1D-HWENO5.pdf
+INPUT ./fig/tikz/compact-1D-HWENO5.pdf
+INPUT ./chapter3/ta_4_ex1.tex
+INPUT ./chapter3/ta_4_ex1.tex
+INPUT chapter3/ta_4_ex1.tex
+INPUT ./chapter3/ta_4_ex2.tex
+INPUT ./chapter3/ta_4_ex2.tex
+INPUT chapter3/ta_4_ex2.tex
+INPUT ./chapter3/ta_4_ex3.tex
+INPUT ./chapter3/ta_4_ex3.tex
+INPUT chapter3/ta_4_ex3.tex
+INPUT ./fig/1D/Ex2.pdf
+INPUT ./fig/1D/Ex2.pdf
+INPUT ./fig/1D/Ex2.pdf
+INPUT ./fig/1D/Ex3.pdf
+INPUT ./fig/1D/Ex3.pdf
+INPUT ./fig/1D/Ex3.pdf
+INPUT ./fig/1D/Ex4.pdf
+INPUT ./fig/1D/Ex4.pdf
+INPUT ./fig/1D/Ex4.pdf
+INPUT ./fig/1D/Ex5.pdf
+INPUT ./fig/1D/Ex5.pdf
+INPUT ./fig/1D/Ex5.pdf
+INPUT ./fig/1D/Ex6.pdf
+INPUT ./fig/1D/Ex6.pdf
+INPUT ./fig/1D/Ex6.pdf
+INPUT ./chapter3/ta_268_ex1.tex
+INPUT ./chapter3/ta_268_ex1.tex
+INPUT chapter3/ta_268_ex1.tex
+INPUT ./chapter3/ta_268_ex2.tex
+INPUT ./chapter3/ta_268_ex2.tex
+INPUT chapter3/ta_268_ex2.tex
+INPUT ./chapter3/ta_268_ex3.tex
+INPUT ./chapter3/ta_268_ex3.tex
+INPUT chapter3/ta_268_ex3.tex
+INPUT ./fig/Time/Time-1D.pdf
+INPUT ./fig/Time/Time-1D.pdf
+INPUT ./fig/Time/Time-1D.pdf
+INPUT ./chapter4/chapter4.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter4/chapter4.aux
+INPUT ./chapter4/chapter4.tex
+INPUT ./chapter4/chapter4.tex
+INPUT chapter4/chapter4.tex
+INPUT ./fig/tikz/case1.pdf
+INPUT ./fig/tikz/case1.pdf
+INPUT ./fig/tikz/case1.pdf
+INPUT ./fig/tikz/case2.pdf
+INPUT ./fig/tikz/case2.pdf
+INPUT ./fig/tikz/case2.pdf
+INPUT ./fig/tikz/case2-2.pdf
+INPUT ./fig/tikz/case2-2.pdf
+INPUT ./fig/tikz/case2-2.pdf
+INPUT ./fig/tikz/case2-ratation.pdf
+INPUT ./fig/tikz/case2-ratation.pdf
+INPUT ./fig/tikz/case2-ratation.pdf
+INPUT ./fig/tikz/case4.pdf
+INPUT ./fig/tikz/case4.pdf
+INPUT ./fig/tikz/case4.pdf
+INPUT ./chapter4/ta_coeff_2nd.tex
+INPUT ./chapter4/ta_coeff_2nd.tex
+INPUT chapter4/ta_coeff_2nd.tex
+INPUT ./fig/tikz/vartheta-2D.pdf
+INPUT ./fig/tikz/vartheta-2D.pdf
+INPUT ./fig/tikz/vartheta-2D.pdf
+INPUT ./fig/tikz/compact-flux.pdf
+INPUT ./fig/tikz/compact-flux.pdf
+INPUT ./fig/tikz/compact-flux.pdf
+INPUT ./fig/tikz/compact-HC4.pdf
+INPUT ./fig/tikz/compact-HC4.pdf
+INPUT ./fig/tikz/compact-HC4.pdf
+INPUT ./fig/tikz/compact-S2O4-HWENO5.pdf
+INPUT ./fig/tikz/compact-S2O4-HWENO5.pdf
+INPUT ./fig/tikz/compact-S2O4-HWENO5.pdf
+INPUT ./fig/tikz/compact-S2O4-HWENO4.pdf
+INPUT ./fig/tikz/compact-S2O4-HWENO4.pdf
+INPUT ./fig/tikz/compact-S2O4-HWENO4.pdf
+INPUT ./chapter4/ta_4_ex1.tex
+INPUT ./chapter4/ta_4_ex1.tex
+INPUT chapter4/ta_4_ex1.tex
+INPUT ./chapter4/ta_4_ex2.tex
+INPUT ./chapter4/ta_4_ex2.tex
+INPUT chapter4/ta_4_ex2.tex
+INPUT ./chapter4/ta_4_ex3.tex
+INPUT ./chapter4/ta_4_ex3.tex
+INPUT chapter4/ta_4_ex3.tex
+INPUT ./fig/2D/RP1_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/RP1_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/RP1_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/RP1_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/RP1_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/RP1_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/RP14_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/RP14_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/RP14_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/RP14_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/RP14_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/RP14_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/RP15_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/RP15_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/RP15_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/RP15_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/RP15_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/RP15_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/DoubleMach_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/DoubleMach_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/DoubleMach_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/DoubleMach_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/DoubleMach_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/DoubleMach_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/Frontstep_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/Frontstep_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/Frontstep_S2O4-WHC4_CFL0.600000.pdf
+INPUT ./fig/2D/Frontstep_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/Frontstep_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./fig/2D/Frontstep_S2O4-HHC4theta20_CFL0.600000.pdf
+INPUT ./chapter4/ta_28_ex1.tex
+INPUT ./chapter4/ta_28_ex1.tex
+INPUT chapter4/ta_28_ex1.tex
+INPUT ./chapter4/ta_28_ex2.tex
+INPUT ./chapter4/ta_28_ex2.tex
+INPUT chapter4/ta_28_ex2.tex
+INPUT ./chapter4/ta_28_ex3.tex
+INPUT ./chapter4/ta_28_ex3.tex
+INPUT chapter4/ta_28_ex3.tex
+INPUT ./fig/2D/RP1_S2O4-WHC8_CFL0.500000.pdf
+INPUT ./fig/2D/RP1_S2O4-WHC8_CFL0.500000.pdf
+INPUT ./fig/2D/RP1_S2O4-WHC8_CFL0.500000.pdf
+INPUT ./fig/2D/RP1_S2O4-HHC8theta200000_CFL0.500000.pdf
+INPUT ./fig/2D/RP1_S2O4-HHC8theta200000_CFL0.500000.pdf
+INPUT ./fig/2D/RP1_S2O4-HHC8theta200000_CFL0.500000.pdf
+INPUT ./fig/2D/RP14_S2O4-WHC8_CFL0.500000.pdf
+INPUT ./fig/2D/RP14_S2O4-WHC8_CFL0.500000.pdf
+INPUT ./fig/2D/RP14_S2O4-WHC8_CFL0.500000.pdf
+INPUT ./fig/2D/RP14_S2O4-HHC8theta200000_CFL0.500000.pdf
+INPUT ./fig/2D/RP14_S2O4-HHC8theta200000_CFL0.500000.pdf
+INPUT ./fig/2D/RP14_S2O4-HHC8theta200000_CFL0.500000.pdf
+INPUT ./fig/2D/RP15_S2O4-WHC8_CFL0.500000.pdf
+INPUT ./fig/2D/RP15_S2O4-WHC8_CFL0.500000.pdf
+INPUT ./fig/2D/RP15_S2O4-WHC8_CFL0.500000.pdf
+INPUT ./fig/2D/RP15_S2O4-HHC8theta200000_CFL0.500000.pdf
+INPUT ./fig/2D/RP15_S2O4-HHC8theta200000_CFL0.500000.pdf
+INPUT ./fig/2D/RP15_S2O4-HHC8theta200000_CFL0.500000.pdf
+INPUT ./fig/Time/Time-2D.pdf
+INPUT ./fig/Time/Time-2D.pdf
+INPUT ./fig/Time/Time-2D.pdf
+INPUT ./chapter5/chapter5.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter5/chapter5.aux
+INPUT ./chapter5/chapter5.tex
+INPUT ./chapter5/chapter5.tex
+INPUT chapter5/chapter5.tex
+INPUT ./extra/setup/reference.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/reference.aux
+INPUT ./extra/setup/reference.tex
+INPUT ./extra/setup/reference.tex
+INPUT extra/setup/reference.tex
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.bbl
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.bbl
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.bbl
+INPUT ./extra/publications.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/publications.aux
+INPUT ./extra/publications.tex
+INPUT ./extra/publications.tex
+INPUT extra/publications.tex
+INPUT ./extra/acknowledgements.tex
+OUTPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/acknowledgements.aux
+INPUT ./extra/acknowledgements.tex
+INPUT ./extra/acknowledgements.tex
+INPUT extra/acknowledgements.tex
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/Definition.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/Definition.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/Definition.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/format.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/format.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/format.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/cover.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/cover.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/cover.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/Authorization.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/Authorization.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/Authorization.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/abstract.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/abstract.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/abstract.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/content.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/content.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/content.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter1/chapter1.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter1/chapter1.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter1/chapter1.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter2/chapter2.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter2/chapter2.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter2/chapter2.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter3/chapter3.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter3/chapter3.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter3/chapter3.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter4/chapter4.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter4/chapter4.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter4/chapter4.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter5/chapter5.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter5/chapter5.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter5/chapter5.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/reference.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/reference.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/reference.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/publications.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/publications.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/publications.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/acknowledgements.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/acknowledgements.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/acknowledgements.aux
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.out
+INPUT /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.out

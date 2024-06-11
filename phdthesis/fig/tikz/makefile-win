@@ -1,0 +1,16 @@
+SRC = $(wildcard *.tex)
+OBJ = $(patsubst %.tex, %.pdf, $(SRC))
+ 
+ALL: $(OBJ)
+ 
+$(filter %.pdf,$(OBJ)) : %.pdf : %.tex
+	@echo dealing $<
+	-xelatex -halt-on-error $<
+	-@del /S/Q *.aux >nul 2>nul
+	-@del /S/Q *.log >nul 2>nul
+	@echo "    to get" $@
+
+clean:
+	-@del /S/Q *.aux >nul 2>nul
+	-@del /S/Q *.log >nul 2>nul
+	-@del /S/Q *.pdf >nul 2>nul

@@ -1,0 +1,280 @@
+% \allowdisplaybreaks[4]
+\setlength{\parindent}{2em}
+\arraycolsep=1.6pt
+
+% 章 ########################################################
+\setcounter{secnumdepth}{4}
+\titleformat{\chapter}{\center\bfseries\xiaosan\song}{第\chinese{chapter}章\quad}{0em}{}
+\makeatletter
+\renewcommand{\chaptermark}[1]{%
+  \if@mainmatter%
+    \markboth{第\chinese{chapter}章\quad #1}{\chinesethesistitle}%
+  \else%
+    \markboth{#1}{\chinesethesistitle}%
+  \fi%
+}
+\makeatother
+\renewcommand{\sectionmark}[1]{}
+\titlespacing{\chapter}{0pt}{-5.5mm}{8mm} % 小三，黑宋
+\crefformat{chapter}{#2第#1章#3}
+\crefrangeformat{chapter}{#3第#1#4～#5#2章#6}
+\crefmultiformat{chapter}{#2第#1#3}{和#2#1章#3}{、#2#1#3}{和#2#1章#3}
+\crefrangemultiformat{chapter}{#3第#1#4～#5#2#6}{和#3#1#4～#5#2章#6}{、#3#1#4～#5#2#6}{和#3#1#4～#5#2章#6}
+
+% 节 ########################################################
+\titleformat{\section}{\bfseries\sihao\song}{\thesection \quad}{0em}{}
+\titlespacing{\section}{0pt}{4.5mm}{4.5mm} % 四号，黑宋
+\crefformat{section}{#2第#1节#3}
+\crefrangeformat{section}{#3第#1#4～#5#2节#6}
+\crefmultiformat{section}{#2第#1#3}{和#2#1节#3}{、#2#1#3}{和#2#1节#3}
+\crefrangemultiformat{section}{#3第#1#4～#5#2#6}{和#3#1#4～#5#2节#6}{、#3#1#4～#5#2#6}{和#3#1#4～#5#2节#6}
+
+% 小节 ########################################################
+\titleformat{\subsection}{\bfseries\xiaosi\song}{\thesubsection \quad}{0em}{}
+\titlespacing{\subsection}{0pt}{4mm}{4mm} % 小四，黑宋
+\crefformat{subsection}{#2第#1小节#3}
+\crefrangeformat{subsection}{#3第#1#4～#5#2小节#6}
+\crefmultiformat{subsection}{#2第#1#3}{和#2#1小节#3}{、#2#1#3}{和#2#1小节#3}
+\crefrangemultiformat{subsection}{#3第#1#4～#5#2#6}{和#3#1#4～#5#2小节#6}{、#3#1#4～#5#2#6}{和#3#1#4～#5#2小节#6}
+
+% 项 ########################################################
+\titleformat{\subsubsection}{\xiaosi\kai}{\thesubsubsection \quad}{0em}{}
+\titlespacing{\subsubsection}{0pt}{0pt}{0pt} % 小四，楷体
+\crefformat{subsubsection}{#2第#1项#3}
+\crefrangeformat{subsubsection}{#3第#1#4～#5#2项#6}
+\crefmultiformat{subsubsection}{#2第#1#3}{和#2#1项#3}{、#2#1#3}{和#2#1项#3}
+\crefrangemultiformat{subsubsection}{#3第#1#4～#5#2#6}{和#3#1#4～#5#2项#6}{、#3#1#4～#5#2#6}{和#3#1#4～#5#2项#6}
+
+\makeatletter
+\def\@dotsep{0.75} % 定义目录的点间距
+\renewcommand*\l@chapter{\@dottedtocline{0}{0em}{4em}}% 控制目录：细点\@dottedtocline 粗点\@dottedtoclinebold
+\renewcommand*\l@section{\@dottedtocline{1}{0em}{1.8em}} % 目录无缩进
+\renewcommand*\l@subsection{\@dottedtocline{2}{0em}{2.5em}} % 目录无缩进
+
+\urlstyle{same} % 论文中引用的网址的字体默认与正文中字体不一致，这里修正为一致的。
+
+% 调整罗列环境的布局
+\setitemize{labelsep=0.5em,wide,itemindent=\parindent-0.5em,parsep=0em,rightmargin=0em,itemsep=0em,topsep=0em,partopsep=0.3\baselineskip}
+\setenumerate{labelsep=0.5em,wide,itemindent=\parindent+0.5em,parsep=0em,rightmargin=0em,itemsep=0em,topsep=0em,partopsep=0.3\baselineskip}
+
+% 定制浮动图形和表格标题样式
+\captionnamefont{\bfseries\wuhao}
+\captiontitlefont{\bfseries\wuhao}
+\captiondelim{~~}
+\captionstyle{\centering}
+\renewcommand{\subcapsize}{\wuhao}
+\setlength{\abovecaptionskip}{1ex}
+\setlength{\belowcaptionskip}{1ex}
+
+% 默认字体
+\renewcommand\normalsize{
+  \@setfontsize\normalsize{12pt}{12pt}
+  \setlength\abovedisplayskip{4pt}
+  \setlength\abovedisplayshortskip{4pt}
+  \setlength\belowdisplayskip{4pt}
+  \setlength\belowdisplayshortskip{4pt}
+  \let\@listi\@listI}
+% 默认五号字体
+\newcommand\normalsmallsize{
+  \@setfontsize\normalsize{10.5pt}{10.5pt}
+  \setlength\abovedisplayskip{4pt}
+  \setlength\abovedisplayshortskip{4pt}
+  \setlength\belowdisplayskip{4pt}
+  \setlength\belowdisplayshortskip{4pt}
+  \let\@listi\@listI}
+
+% 设置行距和段落间垂直距离，根据规定，20磅
+\def\defaultfont{\renewcommand{\baselinestretch}{1.64}\normalsize\selectfont}
+\def\defaultfontsmall{\renewcommand{\baselinestretch}{1.64}\normalsmallsize\selectfont}
+
+\renewcommand{\CJKglue}{\hskip 0.56pt plus 0.08\baselineskip} %加大字间距，使每行36个字。
+\ziju{0.06}
+% \predisplaypenalty=0 %公式之前可以换页，公式出现在页面顶部
+
+\newcommand{\ClearDoubleEmptyPage}{\clearpage{\pagestyle{empty}\cleardoublepage}}
+\preto{\chapter}{\ClearDoubleEmptyPage}
+
+\renewcommand{\headrule}{} % 去除页眉的横线
+\pagestyle{empty} % 设置封面部分为空的页眉页脚
+\apptocmd{\@chapter}{\thispagestyle{empty}}{}{}
+\apptocmd{\@schapter}{\thispagestyle{empty}}{}{}
+
+\fancypagestyle{firstpage}{
+  \fancyhead{} % 清空页眉
+  \fancyfoot[OR,EL]{\wuhao \thepage} % 页脚：页码
+}
+\fancypagestyle{otherpage}{
+  \fancyhead[CE]{
+    \song \wuhao \leftmark\\
+    \rule[0.7\baselineskip]{\headwidth}{.5pt}
+  } % 正文页眉
+  \fancyhead[CO]{
+    \song \wuhao \rightmark\\
+    \rule[0.7\baselineskip]{\headwidth}{.5pt}
+  } % 正文页眉
+  \fancyfoot[OR,EL]{\wuhao \thepage} % 页脚：页码
+}
+\renewcommand\frontmatter{
+  \ClearDoubleEmptyPage
+  \@mainmatterfalse
+  \pagenumbering{Roman}
+  \fancyhf{}
+  \pagestyle{otherpage}
+  \apptocmd{\@chapter}{\thispagestyle{firstpage}}{}{}
+  \apptocmd{\@schapter}{\thispagestyle{firstpage}}{}{}
+}
+\newcommand\appmatter{
+  \appendix
+  \titleformat{\chapter}{\center\bfseries\xiaosan\song}{附录\thechapter \quad}{0em}{}
+  \renewcommand{\chaptermark}[1]{%
+    \if@mainmatter%
+      \markboth{附录\thechapter \quad ##1}{\chinesethesistitle}%
+    \else%
+      \markboth{##1}{\chinesethesistitle}%
+    \fi%
+  }
+}
+
+% 封面、摘要、版权、致谢格式定义
+\def\ctitle#1{\def\@ctitle{#1}}\def\@ctitle{}
+\def\cdegree#1{\def\@cdegree{#1}}\def\@cdegree{}
+\def\csubject#1{\def\@csubject{#1}}\def\@csubject{}
+\def\cauthor#1{\def\@cauthor{#1}}\def\@cauthor{}
+\def\csupervisor#1{\def\@csupervisor{#1}}\def\@csupervisor{}
+% \def\cassosupervisor#1{\def\@cassosupervisor{副导师：#1\\}}\def\@cassosupervisor{}
+% \def\ccosupervisor#1{\def\@ccosupervisor{联合导师：#1}}\def\@ccosupervisor{}
+\def\cassosupervisor#1{\def\@cassosupervisor{#1\\}}\def\@cassosupervisor{}
+\def\ccosupervisor#1{\def\@ccosupervisor{}}\def\@ccosupervisor{}
+\def\ccommitteechairman#1{\def\@ccommitteechairman{#1}}\def\@ccommitteechairman{}
+\def\creviewers#1{\def\@creviewers{#1}}\def\@creviewers{}
+\def\csdate#1{\def\@csdate{#1}}\def\@csdate{}
+\def\cddate#1{\def\@cddate{#1}}\def\@cddate{}
+\def\cdate#1{\def\@cdate{#1}}\def\@cdate{}
+\long\def\cabstract#1{\long\def\@cabstract{#1}}\long\def\@cabstract{}
+\def\ckeywords#1{\def\@ckeywords{#1}}\def\@ckeywords{}
+
+\def\etitle#1{\def\@etitle{#1}}\def\@etitle{}
+\def\edegree#1{\def\@edegree{#1}}\def\@edegree{}
+\def\esubject#1{\def\@esubject{#1}}\def\@esubject{}
+\def\eauthor#1{\def\@eauthor{#1}}\def\@eauthor{}
+\def\esupervisor#1{\def\@esupervisor{#1}}\def\@esupervisor{}
+% \def\eassosupervisor#1{\def\@eassosupervisor{Associate Supervisor: #1\\}}\def\@eassosupervisor{}
+% \def\ecosupervisor#1{\def\@ecosupervisor{Co Supervisor: #1\\}}\def\@ecosupervisor{}
+\def\eassosupervisor#1{\def\@eassosupervisor{#1\\}}\def\@eassosupervisor{}
+\def\ecosupervisor#1{\def\@ecosupervisor{}}\def\@ecosupervisor{}
+\def\ecommitteechairman#1{\def\@ecommitteechairman{#1}}\def\@ecommitteechairman{}
+\def\ereviewers#1{\def\@ereviewers{#1}}\def\@ereviewers{}
+\def\esdate#1{\def\@esdate{#1}}\def\@esdate{}
+\def\eddate#1{\def\@eddate{#1}}\def\@eddate{}
+\def\edate#1{\def\@edate{#1}}\def\@edate{}
+\long\def\eabstract#1{\long\def\@eabstract{#1}}\long\def\@eabstract{}
+\long\def\NotationList#1{\long\def\@NotationList{#1}}\long\def\@NotationList{}
+\def\ekeywords#1{\def\@ekeywords{#1}}\def\@ekeywords{}
+\def\classifiedindex#1{\def\@classifiedindex{#1}}\def\@classifiedindex{}
+\def\unidecimalclass#1{\def\@unidecimalclass{#1}}\def\@unidecimalclass{}
+\def\statesecrets#1{\def\@statesecrets{#1}}\def\@statesecrets{}
+\def\thesisnum#1{\def\@thesisnum{#1}}\def\@thesisnum{}
+
+% 定义封面
+\def\makecover{
+  \begin{titlepage}
+    % 封面一
+    \begin{center}
+
+      {\xiaosi
+        \begin{tabular}{@{}r@{：}l@{}}
+          分类号    & \uline{\makebox[51mm]{\@classifiedindex}} \\
+          U.D.C. & \uline{\makebox[51mm]{\@unidecimalclass}}
+        \end{tabular}}\hfill
+      {\xiaosi
+        \begin{tabular}{@{}r@{：}l@{}}
+          密级 & \uline{\makebox[51mm]{\@statesecrets}} \\
+          编号 & \uline{\makebox[51mm]{\@thesisnum}}
+        \end{tabular}}
+      \parbox[t][36pt][t]{\textwidth}{\begin{center} \end{center} }
+      
+      \parbox[t][44pt][t]{\textwidth}{\chuhao
+        \begin{center} {\song \bfseries 中国工程物理研究院} \end{center} }
+      \parbox[t][44pt][t]{\textwidth}{\begin{center} \end{center} }
+      \begin{center} {\song \yihao \bfseries 学~~位~~论~~文 }\end{center}
+      
+      \kai
+      
+      \parbox[t][70pt][t]{\textwidth}{ \bfseries
+        \begin{center} \renewcommand{\arraystretch}{2.0}
+          \begin{tabular}{c}
+            \xiaoer \uline{\makebox[120mm]{\kai \StrMid{\@ctitle}{1}{\ctitlefirstend}}}       \\
+            \xiaoer \uline{\makebox[120mm]{\kai \StrMid{\@ctitle}{\ctitlesecondstart}{1000}}} \\
+            \sanhao \uline{\makebox[20mm]{\song\@cauthor}}
+          \end{tabular} \renewcommand{\arraystretch}{1}
+        \end{center} }
+      \parbox[t][40pt][t]{\textwidth}{\begin{center} \end{center} }
+      
+      \parbox[t][150pt][t]{\textwidth}{\bfseries
+        \begin{center} \renewcommand{\arraystretch}{2.0} \song \xiaosi
+          \begin{tabular}{r}
+            {\kai \sihao 指导教师姓名} \uline{\makebox[105.7mm]{\@csupervisor}}                                                 \\
+            \uline{\makebox[105.7mm]{\@cassosupervisor \@ccosupervisor}}                                                  \\
+            {\kai \sihao 申请学位级别} \uline{\makebox[36mm]{\@cdegree}} {\kai \sihao 专业名称} \uline{\makebox[47mm]{\@csubject}}  \\
+            {\kai \sihao 论文提交日期} \uline{\makebox[36mm]{\@csdate}} {\kai \sihao 论文答辩日期} \uline{\makebox[36.6mm]{\@cddate}} \\
+            {\kai \sihao 授予学位单位} \uline{\makebox[105.7mm]{中国工程物理研究院}}                                                     \\
+            {\kai \sihao 答辩委员会主席} \uline{\makebox[45mm]{\@ccommitteechairman}}                                            \\
+            %{\kai \sihao 评阅人\uline{\parbox[b]{45mm}{\@creviewers}}}
+          \end{tabular} \renewcommand{\arraystretch}{1}
+        \end{center} }
+      \parbox[t][130pt][t]{\textwidth}{\begin{center} \end{center} }
+      
+      {\xiaosi \bfseries \@cdate}
+    \end{center}
+    
+    % 英文封面
+    \ClearDoubleEmptyPage
+    \begin{center}
+      
+      \vspace*{3cm}
+      {
+        \Arial
+        \fontsize{20pt}{20pt}\selectfont
+        \bfseries
+        \@etitle
+      }
+
+      \vspace{\stretch{3}}
+
+      \sanhao
+      Dissertation Submitted to
+
+      {\bfseries China Academy of Engineering Physics}
+
+      in partial fulfillment of the requirement 
+
+      for the degree of 
+
+      {\Arial\bfseries\@edegree}
+
+      \vspace{\stretch{1}}
+
+      in
+
+      {\Arial\bfseries\@esubject}
+
+      \vspace{\stretch{1}}
+
+      by
+
+      {\Arial\bfseries\@eauthor}
+
+      \vspace{\stretch{2}}
+
+      \xiaosan
+      Dissertation Supervisor:
+      \@esupervisor{}
+
+      \vspace{\stretch{3}}
+
+      {\sanhao\Arial\bfseries\@edate}
+    \end{center}
+  \end{titlepage}
+}
+
+\makeatother

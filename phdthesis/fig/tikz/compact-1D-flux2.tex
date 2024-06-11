@@ -1,0 +1,35 @@
+\documentclass[tikz]{standalone}
+\usepackage{bm} 
+\begin{document}
+\begin{tikzpicture}[thick,scale=.26,line join=round,>=latex]
+  \draw[white] (-24,-1) rectangle (36,4);
+  
+  \draw (-6,0.5)--(-6,0);
+  \draw (0,0.5)--(0,0);
+  \draw (6,0.5)--(6,0);
+  \draw (12,0.5)--(12,0);
+  \draw (18,0.5)--(18,0);
+  \draw (-6,0)--(18,0);
+  \node at (-3,-1) {$i-1$};
+  \node at (3,-1) {$i$};
+  \node at (9,-1) {$i+1$};
+  \node at (15,-1) {$i+2$};
+  
+  \draw[dashed] (6,-2)--(6,3);
+  \draw[blue,->] (5,2.5)--(6,2.5);
+  \draw[red,->] (7,2.5)--(6,2.5);
+  \node at(5.5,3.5) {${\bm u}_{i+\frac{1}{2},\pm}$};
+  
+  \node at (-3,1) {$\color{blue}\bigcirc$};
+  \node at (-3,1) {$\color{blue}\Delta$};
+  \node at (3,1) {$\color{blue}\bigcirc$};
+  \node at (9,1) {$\color{blue}\bigcirc$};
+  \node at (9,1) {$\color{blue}\Delta$};
+  
+  \node at (3 ,2.25) {$\color{red}\bigcirc$};
+  \node at (3 ,2.25) {$\color{red}\Delta$};
+  \node at (9 ,2.25) {$\color{red}\bigcirc$};
+  \node at (15,2.25) {$\color{red}\bigcirc$};
+  \node at (15,2.25) {$\color{red}\Delta$};
+\end{tikzpicture}
+\end{document}

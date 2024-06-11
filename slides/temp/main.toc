@@ -1,0 +1,15 @@
+\beamer@sectionintoc {1}{引言}{7}{0}{1}
+\beamer@sectionintoc {2}{改进的双曲守恒律两步四阶时间推进框架}{31}{0}{2}
+\beamer@sectionintoc {3}{一维基于紧致Hermite重构的双曲守恒律两步四阶数值格式}{43}{0}{3}
+\beamer@subsectionintoc {3}{1}{广义黎曼问题解法器}{49}{0}{3}
+\beamer@subsectionintoc {3}{2}{线性紧致Hermite重构及其相应的两步四阶格式}{55}{0}{3}
+\beamer@subsectionintoc {3}{3}{基本无振荡的紧致Hermite重构及其相应的两步四阶格式}{61}{0}{3}
+\beamer@subsectionintoc {3}{4}{数值实验}{76}{0}{3}
+\beamer@subsectionintoc {3}{5}{空间八阶精度格式及其数值实验}{91}{0}{3}
+\beamer@sectionintoc {4}{二维基于紧致Hermite重构的双曲守恒律两步四阶数值格式}{98}{0}{4}
+\beamer@subsectionintoc {4}{1}{广义黎曼问题解法器}{105}{0}{4}
+\beamer@subsectionintoc {4}{2}{线性紧致Hermite重构及其相应的两步四阶格式}{111}{0}{4}
+\beamer@subsectionintoc {4}{3}{基本无振荡的紧致Hermite重构及其相应的两步四阶格式}{120}{0}{4}
+\beamer@subsectionintoc {4}{4}{数值实验}{125}{0}{4}
+\beamer@subsectionintoc {4}{5}{空间八阶精度格式及其数值实验}{140}{0}{4}
+\beamer@sectionintoc {5}{总结}{148}{0}{5}

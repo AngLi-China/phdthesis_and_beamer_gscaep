@@ -1,0 +1,18 @@
+\def\titleintable{CFL&$h$&Nstep&$L^1$-error&$L^1$-order&$L^\infty$-error&$L^\infty$-order\\}
+\begin{table}[htbp]
+	\caption{一维线性对流方程的精度测试中$u$的$L^1$和$L^\infty$误差和误差阶。}
+	\centering
+	\begin{tabular}{ccccccc}
+		\toprule
+		\titleintable
+		\midrule
+		0.6 & 2/40   & 34   & 1.39581e-06 &              & 2.19020e-06 &              \\
+		0.6 & 2/80   & 67   & 8.73170e-08 & \hl{3.99869} & 1.37118e-07 & \hl{3.99757} \\
+		0.6 & 2/160  & 134  & 5.45979e-09 & \hl{3.99935} & 8.57559e-09 & \hl{3.99904} \\
+		0.6 & 2/320  & 267  & 3.41097e-10 & \hl{4.00059} & 5.35806e-10 & \hl{4.00045} \\
+		0.6 & 2/640  & 534  & 2.12972e-11 & \hl{4.00144} & 3.35383e-11 & \hl{3.99783} \\
+		0.6 & 2/1280 & 1067 & 1.33043e-12 & \hl{4.00071} & 2.39120e-12 & \hl{3.81000} \\
+		\bottomrule
+	\end{tabular}
+\end{table}
+\undef\titleintable

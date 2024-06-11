@@ -1,0 +1,94 @@
+\chapter{摘~~~~要}
+\song\defaultfont
+
+流体力学是研究流体流动规律的科学，
+它在航空航天工程、天气预报、激光聚变和武器物理等领域有着重要的应用。
+计算流体力学用数值方法模拟流体流动，
+其精度和效率是当前学术界关注的热点问题。
+紧致的数值格式在间断附近的分辨率高，
+同时由于其模板小，
+能减少虚拟单元层数，
+降低计算节点间的通信开销，
+从而可提高并行计算的效率。
+高精度高效的数值格式能在较低的计算资源和内存消耗下，
+得到可靠的计算结果。
+因此，
+设计一个紧致的高精度数值格式具有重要的学术意义与应用价值，
+也是一个极具挑战性的课题。
+
+针对双曲守恒律方程，
+文\cite{du2018hermite}中提出了一种基于五阶的埃尔米特加权基本无振荡（HWENO）和加权基本无振荡（WENO）重构与广义黎曼问题解法器的两步四阶数值格式。
+为了进一步提高数值格式的紧致性和效率，
+本文旨在研究求解双曲守恒律的基于紧致埃尔米特重构的时空四阶精度显式两步四阶有限体积格式。
+我们提出了改进的两步四阶时间推进框架，
+克服了原始推进框架的紧致性和高精度不可兼得的困难。
+然后在一维和二维情形下，
+我们分别设计了两种基于紧致埃尔米特重构的基本无振荡的两步四阶数值格式，
+即加权型和杂交选择型的紧致两步四阶格式。
+这两种格式基于我们新构造的紧致的基本无振荡的埃尔米特重构和广义黎曼问题解法器，
+并且为了避免振荡，
+采用了WENO和杂交选择技术。
+作为这项工作的推广，
+我们还设计了基于紧致埃尔米特重构的空间八阶精度基本无振荡的两步四阶数值格式。
+这些两步四阶数值格式具有高精度、稳定、紧致、高效和基本无振荡的特点。
+最后，
+我们给出大量数值算例验证了所设计数值格式的优良特性。
+
+\vspace{\baselineskip}\hangafter=1\hangindent=50pt\noindent
+{\bfseries\xiaosi\song 关键词：双曲守恒律，
+  两步四阶时间推进框架，
+  紧致埃尔米特重构，
+  高阶精度，
+  广义黎曼问题解法器}
+
+\chapter{Abstract}
+
+Fluid dynamics is the science that studies the laws of fluid flow,
+and it has important applications in aerospace engineering,
+weather forecasting,
+laser fusion,
+weapons physics,
+and other fields.
+Computational fluid dynamics simulates fluid flow using numerical methods,
+and its accuracy and efficiency are hot topics in the academic community.
+Compact numerical schemes have high resolution near discontinuities,
+and because their stencils are narrow,
+they can reduce the number of ghost cell layers,
+reduce the communication overhead between computing nodes,
+and thus they can improve the efficiency of parallel computing.
+High order and efficient numerical schemes can obtain reliable calculation results with lower computational resources and memory consumption.
+Therefore,
+designing compact and high order numerical schemes has important academic significance and application value,
+and is also a challenging issue.
+
+In the work \cite{du2018hermite},
+a two-stage fourth order numerical scheme for hyperbolic conservation laws is proposed,
+which is based on fifth-order weighted essentially non-oscillatory (WENO) and Hermite WENO (HWENO) reconstructions and generalized Riemann problem solver.
+In order to further improve the compactness and efficiency of the numerical scheme,
+we aim to design explicit two-stage fourth order finite volume schemes based on compact Hermite reconstruction for solving hyperbolic conservation laws in this thesis,
+which are fourth-order in both spatial and temporal directions.
+We propose an improved two-stage fourth order time-stepping framework,
+which solves the difficulty of not having both compactness and high accuracy in the original time-stepping framework.
+Then in one-dimensional and two-dimensional cases,
+we design two essentially non-oscillatory two-stage fourth order numerical schemes based on compact Hermite reconstruction,
+respectively,
+i.e.,
+the weighted and hybrid chosen of compact two-stage fourth order schemes.
+They are based on our newly designed compact essentially non-oscillatory Hermite reconstructions and generalized Riemann problem solver.
+In order to avoid oscillations,
+we use WENO and hybrid choice techniques.
+As an extension of this work,
+the essentially non-oscillatory two-stage fourth order numerical schemes based on compact Hermite reconstruction are extended to eighth-order accuracy in space.
+These two-stage fourth order numerical schemes are high-order,
+stable,
+compact,
+efficient and essentially non-oscillatory.
+Finally,
+we present a large number of numerical examples to verify the excellent performance of the designed numerical schemes.
+
+\vspace{\baselineskip}\hangafter=1\hangindent=62pt\noindent
+{\textbf{\xiaosi Keywords: Hyperbolic conservation laws,
+    Two-stage fourth order time-stepping framework,
+    Compact Hermite reconstruction,
+    High order,
+    GRP solver}}

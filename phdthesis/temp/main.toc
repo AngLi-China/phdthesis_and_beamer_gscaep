@@ -1,0 +1,97 @@
+\contentsline {chapter}{摘~~~~要}{I}{section*.3}%
+\contentsline {chapter}{Abstract}{III}{section*.5}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}绪论}{1}{section*.7}%
+\contentsline {section}{\numberline {1.1}研究背景}{1}{section*.8}%
+\contentsline {subsection}{\numberline {1.1.1}计算流体力学}{1}{section*.9}%
+\contentsline {subsection}{\numberline {1.1.2}双曲守恒律及其数值格式}{2}{section*.10}%
+\contentsline {subsubsection}{\numberline {1.1.2.1}按照网格运动方式分类}{2}{section*.11}%
+\contentsline {subsubsection}{\numberline {1.1.2.2}按照空间离散方法分类}{4}{section*.14}%
+\contentsline {subsubsection}{\numberline {1.1.2.3}按照时间离散方法分类}{4}{section*.15}%
+\contentsline {section}{\numberline {1.2}研究现状}{5}{section*.16}%
+\contentsline {subsection}{\numberline {1.2.1}时间推进框架}{6}{section*.17}%
+\contentsline {subsection}{\numberline {1.2.2}重构算法}{7}{section*.18}%
+\contentsline {subsubsection}{\numberline {1.2.2.1}$P_0P_k$方法}{7}{section*.19}%
+\contentsline {subsubsection}{\numberline {1.2.2.2}$P_1P_k$方法}{8}{section*.20}%
+\contentsline {subsubsection}{\numberline {1.2.2.3}$P_kP_k$方法}{9}{section*.23}%
+\contentsline {subsubsection}{\numberline {1.2.2.4}$P_NP_M$方法}{9}{section*.24}%
+\contentsline {subsection}{\numberline {1.2.3}解法器}{9}{section*.25}%
+\contentsline {section}{\numberline {1.3}本文的研究目的和主要工作}{12}{section*.30}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}改进的双曲守恒律两步四阶时间推进框架}{15}{section*.31}%
+\contentsline {section}{\numberline {2.1}原始的两步四阶时间推进框架}{15}{section*.32}%
+\contentsline {subsection}{\numberline {2.1.1}原始两步四阶时间推进框架的算法流程}{15}{section*.33}%
+\contentsline {subsection}{\numberline {2.1.2}原始两步四阶时间推进框架的局限}{16}{section*.34}%
+\contentsline {subsection}{\numberline {2.1.3}原始两步四阶时间推进框架的精度分析}{18}{section*.39}%
+\contentsline {section}{\numberline {2.2}改进的一维两步四阶时间推进框架}{20}{section*.40}%
+\contentsline {subsection}{\numberline {2.2.1}一维两步四阶时间推进框架的算法流程}{21}{section*.41}%
+\contentsline {subsection}{\numberline {2.2.2}一维两步四阶时间推进框架的组件：重构}{22}{section*.42}%
+\contentsline {subsection}{\numberline {2.2.3}一维两步四阶时间推进框架的组件：解法器}{22}{section*.43}%
+\contentsline {subsubsection}{\numberline {2.2.3.1}标准一阶LW型解法器}{23}{section*.44}%
+\contentsline {subsubsection}{\numberline {2.2.3.2}线性二阶LW型解法器}{23}{section*.45}%
+\contentsline {subsection}{\numberline {2.2.4}一维两步四阶时间推进框架的精度分析}{24}{section*.46}%
+\contentsline {section}{\numberline {2.3}改进的二维两步四阶时间推进框架}{25}{section*.47}%
+\contentsline {subsection}{\numberline {2.3.1}二维两步四阶时间推进框架的算法流程}{25}{section*.48}%
+\contentsline {subsection}{\numberline {2.3.2}二维两步四阶时间推进框架的组件：重构}{27}{section*.49}%
+\contentsline {subsection}{\numberline {2.3.3}二维两步四阶时间推进框架的组件：解法器}{27}{section*.50}%
+\contentsline {subsubsection}{\numberline {2.3.3.1}标准一阶LW型解法器}{27}{section*.51}%
+\contentsline {subsubsection}{\numberline {2.3.3.2}线性二阶LW型解法器}{28}{section*.52}%
+\contentsline {subsection}{\numberline {2.3.4}二维两步四阶时间推进框架的精度分析}{29}{section*.53}%
+\contentsline {section}{\numberline {2.4}一种新的三步四阶时间推进框架}{31}{section*.54}%
+\contentsline {section}{\numberline {2.5}边界处理：虚拟单元技术}{32}{section*.55}%
+\contentsline {section}{\numberline {2.6}小结}{32}{section*.58}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}一维基于紧致埃尔米特重构的双曲守恒律两步四阶数值格式}{33}{section*.59}%
+\contentsline {section}{\numberline {3.1}广义黎曼问题解法器}{33}{section*.60}%
+\contentsline {subsection}{\numberline {3.1.1}黎曼问题解法器：Godunov解法器}{33}{section*.61}%
+\contentsline {subsection}{\numberline {3.1.2}线性声波近似的广义黎曼问题解法器}{35}{section*.64}%
+\contentsline {subsection}{\numberline {3.1.3}非线性广义黎曼问题解法器：$t$轴不位于稀疏波内部}{35}{section*.65}%
+\contentsline {subsection}{\numberline {3.1.4}非线性广义黎曼问题解法器：$t$轴位于稀疏波内部}{37}{section*.66}%
+\contentsline {section}{\numberline {3.2}线性紧致埃尔米特重构及其相应的两步四阶格式}{37}{section*.67}%
+\contentsline {subsection}{\numberline {3.2.1}线性紧致埃尔米特重构的推导}{38}{section*.68}%
+\contentsline {subsection}{\numberline {3.2.2}线性紧致埃尔米特重构的例子}{40}{section*.69}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}$k=1$情形下的线性紧致埃尔米特重构}{40}{section*.70}%
+\contentsline {subsubsection}{\numberline {3.2.2.2}$k=2$情形下的线性紧致埃尔米特重构}{40}{section*.71}%
+\contentsline {subsubsection}{\numberline {3.2.2.3}均匀网格情况下线性紧致埃尔米特重构多项式的系数}{41}{section*.72}%
+\contentsline {subsection}{\numberline {3.2.3}基于线性紧致埃尔米特重构的两步四阶格式及其稳定性分析}{41}{section*.75}%
+\contentsline {section}{\numberline {3.3}基本无振荡的紧致埃尔米特重构及其相应的两步四阶格式}{49}{section*.86}%
+\contentsline {subsection}{\numberline {3.3.1}加权型紧致埃尔米特重构}{49}{section*.87}%
+\contentsline {subsubsection}{\numberline {3.3.1.1}加权型紧致埃尔米特重构的组成成分}{49}{section*.88}%
+\contentsline {subsubsection}{\numberline {3.3.1.2}加权型紧致埃尔米特重构的推导}{50}{section*.89}%
+\contentsline {subsubsection}{\numberline {3.3.1.3}加权型紧致埃尔米特重构的性质}{50}{section*.90}%
+\contentsline {subsubsection}{\numberline {3.3.1.4}八阶加权型紧致埃尔米特重构}{51}{section*.91}%
+\contentsline {subsection}{\numberline {3.3.2}杂交选择型紧致埃尔米特重构}{51}{section*.92}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}杂交选择型紧致埃尔米特重构的推导}{52}{section*.93}%
+\contentsline {subsubsection}{\numberline {3.3.2.2}杂交选择型紧致埃尔米特重构中参数$\bar \vartheta $的选择}{53}{section*.94}%
+\contentsline {subsubsection}{\numberline {3.3.2.3}八阶杂交选择型紧致埃尔米特重构}{53}{section*.97}%
+\contentsline {subsection}{\numberline {3.3.3}基于紧致埃尔米特重构的基本无振荡的两步四阶格式}{54}{section*.98}%
+\contentsline {subsection}{\numberline {3.3.4}数值格式的紧致性}{54}{section*.99}%
+\contentsline {section}{\numberline {3.4}数值实验}{56}{section*.106}%
+\contentsline {subsection}{\numberline {3.4.1}空间四阶精度的两步四阶格式}{56}{section*.107}%
+\contentsline {subsection}{\numberline {3.4.2}空间六阶和八阶精度的两步四阶格式}{63}{section*.136}%
+\contentsline {subsection}{\numberline {3.4.3}数值格式的时间效率}{69}{section*.159}%
+\contentsline {section}{\numberline {3.5}小结}{71}{section*.162}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}二维基于紧致埃尔米特重构的双曲守恒律两步四阶数值格式}{73}{section*.163}%
+\contentsline {section}{\numberline {4.1}广义黎曼问题解法器}{73}{section*.164}%
+\contentsline {section}{\numberline {4.2}线性紧致埃尔米特重构及其相应的两步四阶格式}{73}{section*.165}%
+\contentsline {subsection}{\numberline {4.2.1}线性紧致埃尔米特重构模板的选择策略}{74}{section*.166}%
+\contentsline {subsection}{\numberline {4.2.2}线性紧致埃尔米特重构的具体形式}{74}{section*.167}%
+\contentsline {subsection}{\numberline {4.2.3}基于线性紧致埃尔米特重构的两步四阶格式}{75}{section*.177}%
+\contentsline {section}{\numberline {4.3}基本无振荡的紧致埃尔米特重构及其相应的两步四阶格式}{77}{section*.178}%
+\contentsline {subsection}{\numberline {4.3.1}加权型紧致埃尔米特重构}{77}{section*.179}%
+\contentsline {subsubsection}{\numberline {4.3.1.1}加权型紧致埃尔米特重构的组成成分}{77}{section*.180}%
+\contentsline {subsubsection}{\numberline {4.3.1.2}加权型紧致埃尔米特重构的推导}{78}{section*.181}%
+\contentsline {subsubsection}{\numberline {4.3.1.3}加权型紧致埃尔米特重构的性质}{79}{section*.182}%
+\contentsline {subsubsection}{\numberline {4.3.1.4}八阶加权型紧致埃尔米特重构}{80}{section*.183}%
+\contentsline {subsection}{\numberline {4.3.2}杂交选择型紧致埃尔米特重构}{80}{section*.184}%
+\contentsline {subsubsection}{\numberline {4.3.2.1}杂交选择型紧致埃尔米特重构中的参数选择}{81}{section*.185}%
+\contentsline {subsubsection}{\numberline {4.3.2.2}八阶杂交选择型紧致埃尔米特重构}{81}{section*.188}%
+\contentsline {subsection}{\numberline {4.3.3}基于紧致埃尔米特重构的基本无振荡的紧致两步四阶格式}{82}{section*.189}%
+\contentsline {subsection}{\numberline {4.3.4}数值格式的紧致性}{82}{section*.190}%
+\contentsline {section}{\numberline {4.4}数值实验}{83}{section*.197}%
+\contentsline {subsection}{\numberline {4.4.1}空间四阶精度的两步四阶格式}{84}{section*.198}%
+\contentsline {subsection}{\numberline {4.4.2}空间八阶精度的两步四阶格式}{91}{section*.227}%
+\contentsline {subsection}{\numberline {4.4.3}数值格式的时间效率}{100}{section*.252}%
+\contentsline {section}{\numberline {4.5}小结}{100}{section*.255}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}总结与展望}{101}{section*.256}%
+\contentsline {chapter}{参考文献}{103}{section*.257}%
+\contentsline {chapter}{攻读博士学位期间完成的论文及其他成果}{109}{section*.260}%
+\contentsline {chapter}{致~~~~谢}{111}{section*.262}%
+\contentsfinish 

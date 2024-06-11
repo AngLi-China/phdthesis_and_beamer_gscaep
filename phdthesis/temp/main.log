@@ -1,0 +1,1720 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2024.2.7)  31 MAY 2024 13:31
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/ctexbook.cls
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctexb
+ackend.cfg
+File: ctexbackend.cfg 2022/07/14 v2.5.10 Backend configuration file (CTEX)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.st
+y
+Package: expl3 2024-01-22 L3 programming layer (loader) 
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backe
+nd-xetex.def
+File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
+\g__graphics_track_int=\count183
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count184
+\g__pdf_backend_annotation_int=\count185
+\g__pdf_backend_link_int=\count186
+))
+Document Class: ctexbook 2022/07/14 v2.5.10 Chinese adapter for class book (CTE
+X)
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/ctexpatch.st
+y
+Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count187
+\l__ctex_tmp_box=\box52
+\l__ctex_tmp_dim=\dimen140
+\g__ctex_section_depth_int=\count188
+\g__ctex_font_size_int=\count189
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctexo
+pts.cfg
+File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk12.clo
+File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count190
+\c@chapter=\count191
+\c@section=\count192
+\c@subsection=\count193
+\c@subsubsection=\count194
+\c@paragraph=\count195
+\c@subparagraph=\count196
+\c@figure=\count197
+\c@table=\count198
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/engine/ctex-
+engine-xetex.def
+File: ctex-engine-xetex.def 2022/07/14 v2.5.10 XeLaTeX adapter (CTEX)
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xtempl
+ate/xtemplate.sty
+Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen142
+\l__xtemplate_tmp_int=\count199
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip50
+)
+\l__xeCJK_tmp_int=\count266
+\l__xeCJK_tmp_box=\box53
+\l__xeCJK_tmp_dim=\dimen143
+\l__xeCJK_tmp_skip=\skip51
+\g__xeCJK_space_factor_int=\count267
+\l__xeCJK_begin_int=\count268
+\l__xeCJK_end_int=\count269
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip52
+\c__xeCJK_none_node=\count270
+\g__xeCJK_node_int=\count271
+\c__xeCJK_CJK_node_dim=\dimen144
+\c__xeCJK_CJK-space_node_dim=\dimen145
+\c__xeCJK_default_node_dim=\dimen146
+\c__xeCJK_CJK-widow_node_dim=\dimen147
+\c__xeCJK_normalspace_node_dim=\dimen148
+\c__xeCJK_default-space_node_skip=\skip53
+\l__xeCJK_ccglue_skip=\skip54
+\l__xeCJK_ecglue_skip=\skip55
+\l__xeCJK_punct_kern_skip=\skip56
+\l__xeCJK_indent_box=\box54
+\l__xeCJK_last_penalty_int=\count272
+\l__xeCJK_last_bound_dim=\dimen149
+\l__xeCJK_last_kern_dim=\dimen150
+\l__xeCJK_widow_penalty_int=\count273
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2396.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen151
+\l__xeCJK_mixed_punct_width_dim=\dimen152
+\l__xeCJK_middle_punct_width_dim=\dimen153
+\l__xeCJK_fixed_margin_width_dim=\dimen154
+\l__xeCJK_mixed_margin_width_dim=\dimen155
+\l__xeCJK_middle_margin_width_dim=\dimen156
+\l__xeCJK_bound_punct_width_dim=\dimen157
+\l__xeCJK_bound_margin_width_dim=\dimen158
+\l__xeCJK_margin_minimum_dim=\dimen159
+\l__xeCJK_kerning_total_width_dim=\dimen160
+\l__xeCJK_same_align_margin_dim=\dimen161
+\l__xeCJK_different_align_margin_dim=\dimen162
+\l__xeCJK_kerning_margin_width_dim=\dimen163
+\l__xeCJK_kerning_margin_minimum_dim=\dimen164
+\l__xeCJK_bound_dim=\dimen165
+\l__xeCJK_reverse_bound_dim=\dimen166
+\l__xeCJK_margin_dim=\dimen167
+\l__xeCJK_minimum_bound_dim=\dimen168
+\l__xeCJK_kerning_margin_dim=\dimen169
+\g__xeCJK_family_int=\count274
+\l__xeCJK_fam_int=\count275
+\g__xeCJK_fam_allocation_int=\count276
+\l__xeCJK_verb_case_int=\count277
+\l__xeCJK_verb_exspace_skip=\skip57
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec/fontspec
+.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse
+/xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec/fontspec
+-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count278
+\l__fontspec_language_int=\count279
+\l__fontspec_strnum_int=\count280
+\l__fontspec_tmp_int=\count281
+\l__fontspec_tmpa_int=\count282
+\l__fontspec_tmpb_int=\count283
+\l__fontspec_tmpc_int=\count284
+\l__fontspec_em_int=\count285
+\l__fontspec_emdef_int=\count286
+\l__fontspec_strong_int=\count287
+\l__fontspec_strongdef_int=\count288
+\l__fontspec_tmpa_dim=\dimen170
+\l__fontspec_tmpb_dim=\dimen171
+\l__fontspec_tmpc_dim=\dimen172
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec/fontspec
+.cfg)))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
+))
+\ccwd=\dimen173
+\l__ctex_ccglue_skip=\skip58
+)
+\l__ctex_ziju_dim=\dimen174
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/zhnumber/zhnumber
+.sty
+Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count289
+\l__zhnum_tmp_int=\count290
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/zhnumber/zhnumber
+-utf8.cfg
+File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip59
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/scheme/ctex-
+scheme-chinese-book.def
+File: ctex-scheme-chinese-book.def 2022/07/14 v2.5.10 Chinese scheme for book (
+CTEX)
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctex-
+name-utf8.cfg
+File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
+))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/ctex-cs4size
+.clo
+File: ctex-cs4size.clo 2022/07/14 v2.5.10 cs4size option (CTEX)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/fontset/ctex
+-fontset-windows.def
+File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTE
+X)
+
+Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options
+(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ctex/config/ctex.
+cfg
+File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+)
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 6.
+
+(extra/setup/type.tex)
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 7.
+
+(extra/setup/package.tex
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx
+.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.s
+ty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics
+.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/grap
+hics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/xete
+x.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen175
+\Gin@req@width=\dimen176
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry
+.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.st
+y
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count291
+\Gm@cntv=\count292
+\c@Gm@tempcnt=\count293
+\Gm@bindingoffset=\dimen177
+\Gm@wd@mp=\dimen178
+\Gm@odd@mp=\dimen179
+\Gm@even@mp=\dimen180
+\Gm@layoutwidth=\dimen181
+\Gm@layoutheight=\dimen182
+\Gm@layouthoffset=\dimen183
+\Gm@layoutvoffset=\dimen184
+\Gm@dimlist=\toks18
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry
+.cfg))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec
+.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip60
+\aftertitleunit=\skip61
+\ttl@plus=\dimen185
+\ttl@minus=\dimen186
+\ttl@toksa=\toks19
+\titlewidth=\dimen187
+\titlewidthlast=\dimen188
+\titlewidthfirst=\dimen189
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titletoc
+.sty
+Package: titletoc 2023/10/27 v2.16 TOC entries
+\ttl@leftsep=\dimen190
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr
+.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip62
+\f@nch@O@elh=\skip63
+\f@nch@O@erh=\skip64
+\f@nch@O@olh=\skip65
+\f@nch@O@orh=\skip66
+\f@nch@O@elf=\skip67
+\f@nch@O@erf=\skip68
+\f@nch@O@olf=\skip69
+\f@nch@O@orf=\skip70
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/colo
+r.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolo
+r.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.s
+ty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip71
+
+For additional information on amsmath, use the `?' option.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.s
+ty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.st
+y
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen191
+))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen192
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.st
+y
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count294
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count295
+\leftroot@=\count296
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count297
+\DOTSCASE@=\count298
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen193
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count299
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count300
+\dotsspace@=\muskip17
+\c@parentequation=\count301
+\dspbrk@lvl=\count302
+\tag@help=\toks21
+\row@=\count303
+\column@=\count304
+\maxfields@=\count305
+\andhelp@=\toks22
+\eqnshift@=\dimen194
+\alignsep@=\dimen195
+\tagshift@=\dimen196
+\tagwidth@=\dimen197
+\totwidth@=\dimen198
+\lineht@=\dimen199
+\@envbody=\toks23
+\multlinegap=\skip72
+\multlinetaggap=\skip73
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.
+sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts
+.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/placeins/placeins
+.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/flafter.sty
+Package: flafter 2021/07/31 v1.4e Standard LaTeX floats after reference (FMi)
+Applying: [2015/01/01] float order in 2-column on input line 49.
+Already applied: [0000/00/00] float order in 2-column on input line 151.
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow
+.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip74
+\multirow@cntb=\count306
+\multirow@dima=\skip75
+\bigstrutjot=\dimen256
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/booktabs/booktabs
+.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen257
+\lightrulewidth=\dimen258
+\cmidrulewidth=\dimen259
+\belowrulesep=\dimen260
+\belowbottomsep=\dimen261
+\aboverulesep=\dimen262
+\abovetopsep=\dimen263
+\cmidrulesep=\dimen264
+\cmidrulekern=\dimen265
+\defaultaddspace=\dimen266
+\@cmidla=\count307
+\@cmidlb=\count308
+\@aboverulesep=\dimen267
+\@belowrulesep=\dimen268
+\@thisruleclass=\count309
+\@lastruleclass=\count310
+\@thisrulewidth=\dimen269
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.s
+ty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip76
+\LTright=\skip77
+\LTpre=\skip78
+\LTpost=\skip79
+\LTchunksize=\count311
+\LTcapwidth=\dimen270
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@gbox=\box62
+\LT@cols=\count312
+\LT@rows=\count313
+\c@LT@tables=\count314
+\c@LT@chunks=\count315
+\LT@p@ftn=\toks25
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/tabularx.st
+y
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen271
+\ar@mcellbox=\box63
+\extrarowheight=\dimen272
+\NC@list=\toks26
+\extratabsurround=\skip80
+\backup@length=\skip81
+\ar@cellbox=\box64
+)
+\TX@col@width=\dimen273
+\TX@old@table=\dimen274
+\TX@old@col=\dimen275
+\TX@target=\dimen276
+\TX@delta=\dimen277
+\TX@cols=\count316
+\TX@ftn=\toks27
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.s
+ty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.
+sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen278
+\captionmargin=\dimen279
+\caption@leftmargin=\dimen280
+\caption@rightmargin=\dimen281
+\caption@width=\dimen282
+\caption@indent=\dimen283
+\caption@parindent=\dimen284
+\caption@hangindent=\dimen285
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count317
+\c@continuedfloat=\count318
+Package caption Info: longtable package is loaded.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/ltcaption
+.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfigure/subfigu
+re.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip82
+\subfigcapskip=\skip83
+\subfigcaptopadj=\dimen286
+\subfigbottomskip=\skip84
+\subfigcapmargin=\dimen287
+\subfiglabelskip=\skip85
+\c@subfigure=\count319
+\c@lofdepth=\count320
+\c@subtable=\count321
+\c@lotdepth=\count322
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfigure/subfigu
+re.cfg)
+\subfig@top=\skip86
+\subfig@bottom=\skip87
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ccaption/ccaption
+.sty
+Package: ccaption 2011/08/07 v3.2c Extended captioning and new floats
+\@contcwidth=\skip88
+\@contindw=\skip89
+\abovelegendskip=\skip90
+\belowlegendskip=\skip91
+\c@@contsubnum=\count323
+\c@newflo@tctr=\count324
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip92
+\bibsep=\skip93
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count325
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/enumitem/enumitem
+.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip94
+\enit@outerparindent=\dimen288
+\enit@toks=\toks28
+\enit@inbox=\box65
+\enit@count@id=\count326
+\enitdp@description=\count327
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count328
+\calc@Bcount=\count329
+\calc@Adimen=\dimen289
+\calc@Bdimen=\dimen290
+\calc@Askip=\skip95
+\calc@Bskip=\skip96
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count330
+\calc@Cskip=\skip97
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/txfonts.s
+ty
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 70.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 164.
+LaTeX Info: Redefining \not on input line 1043.
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/bm.sty
+Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup10
+\symboldletters=\mathgroup11
+\symboldsymbols=\mathgroup12
+\symboldlargesymbols=\mathgroup13
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/theorem.sty
+Package: theorem 2023/07/05 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks29
+\theorem@bodyfont=\toks30
+\theorempreskipamount=\skip98
+\theorempostskipamount=\skip99
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/thp.sty
+File: thp.sty 2023/07/05 v2.2c Theorem extension package (FMi)
+))
+\c@remark=\count331
+\c@theorem=\count332
+\c@example=\count333
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ulem/ulem.sty
+\UL@box=\box66
+\UL@hyphenbox=\box67
+\UL@skip=\skip100
+\UL@hook=\toks31
+\UL@height=\dimen291
+\UL@pe=\count334
+\UL@pixel=\dimen292
+\ULC@box=\box68
+Package: ulem 2019/11/18
+\ULdepth=\dimen293
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgf
+for.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgf
+rcs.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
+gfutil-common.tex
+\pgfutil@everybye=\toks32
+\pgfutil@tempdima=\dimen294
+\pgfutil@tempdimb=\dimen295
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
+gfutil-latex.def
+\pgfutil@abb=\box69
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
+gfrcs.code.tex
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revisio
+n.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgf
+keys.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
+gfkeys.code.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
+gfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks35
+)))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.
+sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+h.code.tex
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hutil.code.tex
+\pgf@x=\dimen296
+\pgf@xa=\dimen297
+\pgf@xb=\dimen298
+\pgf@xc=\dimen299
+\pgf@y=\dimen300
+\pgf@ya=\dimen301
+\pgf@yb=\dimen302
+\pgf@yc=\dimen303
+\c@pgf@counta=\count335
+\c@pgf@countb=\count336
+\c@pgf@countc=\count337
+\c@pgf@countd=\count338
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hparser.code.tex
+\pgfmath@dimen=\dimen304
+\pgfmath@count=\count339
+\pgfmath@box=\box70
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hfunctions.code.tex)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hfunctions.basic.code.tex)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hfunctions.trigonometric.code.tex)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hfunctions.random.code.tex)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hfunctions.comparison.code.tex)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hfunctions.base.code.tex)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hfunctions.round.code.tex)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hfunctions.misc.code.tex)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hfunctions.integerarithmetics.code.tex)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hcalc.code.tex)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
+hfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count340
+)))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
+gffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen305
+\pgffor@skip=\dimen306
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/verbatim.st
+y
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks41
+\verbatim@line=\toks42
+\verbatim@in@stream=\read2
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/mathrsfs
+.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup14
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
+12.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/anyfontsize/anyfo
+ntsize.sty
+Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xstring/xstring.s
+ty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xstring/xstring
+.tex
+\xs_counta=\count341
+\xs_countb=\count342
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref
+.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetke
+ys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kv
+definekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfes
+cape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds
+.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdft
+excmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwa
+rerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.s
+ty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.s
+ty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.
+sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount
+.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/
+gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptio
+ns.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count343
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox
+.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count344
+)
+\@linkdim=\dimen307
+\Hy@linkcounter=\count345
+\Hy@pagecounter=\count346
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.d
+ef
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc
+.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count347
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.de
+f
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4062.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4062
+.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4062.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4062.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4062.
+Package hyperref Info: Option `naturalnames' set `true' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count348
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen308
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.s
+ty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigi
+ntcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count349
+\Field@Width=\dimen309
+\Fld@charsize=\dimen310
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring ON on input line 6081.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx
+.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count350
+\c@Item=\count351
+\c@Hfootnote=\count352
+)
+Package hyperref Info: Driver: hxetex.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hxetex.d
+ef
+File: hxetex.def 2024-01-20 v7.01h Hyperref driver for XeTeX
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/stringenc/strin
+genc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box71
+\c@Hy@AnnotLevel=\count353
+\HyField@AnnotCount=\count354
+\Fld@listcount=\count355
+\c@bookmark@seq@number=\count356
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/re
+runfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-lt
+x.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/u
+niquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip101
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/algorithm2e/algor
+ithm2e.sty
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 550 replaced by U+FFFD.
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count357
+\algocf@hangindent=\skip102
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ifoddpage/ifoddpa
+ge.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count358
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/relsize/relsize.s
+ty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip103
+\skiplinenumber=\skip104
+\skiprule=\skip105
+\skiphlne=\skip106
+\skiptext=\skip107
+\skiplength=\skip108
+\algomargin=\skip109
+\skipalgocfslide=\skip110
+\algowidth=\dimen311
+\inoutsize=\dimen312
+\inoutindent=\dimen313
+\interspacetitleruled=\dimen314
+\interspacealgoruled=\dimen315
+\interspacetitleboxruled=\dimen316
+\algocf@ruledwidth=\skip111
+\algocf@inoutbox=\box72
+\algocf@inputbox=\box73
+\AlCapSkip=\skip112
+\AlCapHSkip=\skip113
+\algoskipindent=\skip114
+\algocf@nlbox=\box74
+\algocf@hangingbox=\box75
+\algocf@untilbox=\box76
+\algocf@skipuntil=\skip115
+\algocf@capbox=\box77
+\algocf@lcaptionbox=\skip116
+\algoheightruledefault=\skip117
+\algoheightrule=\skip118
+\algotitleheightruledefault=\skip119
+\algotitleheightrule=\skip120
+\c@algocfline=\count359
+\c@algocfproc=\count360
+\c@algocf=\count361
+\algocf@algoframe=\box78
+\algocf@algobox=\box79
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cleveref/cleveref
+.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `algorithm2e' support loaded on input line 3147.
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/aliascnt
+.sty
+Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/silence/silence.s
+ty
+Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error mes
+sages
+\sl@Save=\count362
+\sl@StateNumber=\count363
+\sl@MessageCount=\count364
+\sl@Casualties=\count365
+\sl@Filter=\toks43
+\sl@Message=\toks44
+\sl@UnexpandedMessage=\toks45
+\sl@Mess@ge=\toks46
+\sl@WarningCount=\count366
+\sl@WarningNumber=\count367
+\sl@WarningCasualties=\count368
+\sl@TempBOW=\toks47
+\sl@BankOfWarnings=\toks48
+LaTeX Info: Redefining \GenericWarning on input line 433.
+\sl@ErrorCount=\count369
+\sl@ErrorNumber=\count370
+\sl@ErrorCasualties=\count371
+\sl@TempBOE=\toks49
+\sl@BankOfErrors=\toks50
+LaTeX Info: Redefining \GenericError on input line 601.
+))
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
+.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.aux
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/Definition.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/format.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/cover.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/Authorization.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/abstract.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/content.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter1/chapter1.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter2/chapter2.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter3/chapter3.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter4/chapter4.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter5/chapter5.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/reference.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/publications.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/acknowledgements.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 9.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
+9.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/omltxmi.f
+d
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
+9.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/omstxsy.f
+d
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
+9.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/omxtxex.f
+d
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 9
+.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxexa.fd
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24408pt, 71.13191pt)
+* v-part:(T,H,B)=(85.35826pt, 688.55669pt, 71.1319pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24408pt
+* \textheight=688.55669pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.13808pt
+* \topmargin=-6.82866pt
+* \headheight=34.1433pt
+* \headsep=-14.22636pt
+* \topskip=12.0pt
+* \footskip=24.18483pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 9.
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.out)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+\openout2 = `extra/setup/Definition.aux'.
+
+
+(extra/setup/Definition.tex)
+\openout2 = `extra/setup/format.aux'.
+
+ (extra/setup/format.tex)
+\openout2 = `extra/cover.aux'.
+
+ (extra/cover.tex
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 3
+8.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 3
+8.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 3
+8.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 3
+8.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/txfonts/utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 38
+.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+Package fontspec Info: Could not resolve font "SimSun/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimSun(1)' created for font 'SimSun' with
+(fontspec)             options [Script={CJK},AutoFakeBold={4}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;embolden=4;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "KaiTi/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "KaiTi/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "KaiTi/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'KaiTi(0)' created for font 'KaiTi' with
+(fontspec)             options [Script={CJK},AutoFakeBold={4}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;embolden=4;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+ [1
+
+
+
+
+
+
+
+
+
+] [2
+
+
+]
+
+Package fontspec Info: Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+ [3])
+\openout2 = `extra/Authorization.aux'.
+
+ (extra/Authorization.tex [4
+
+
+
+
+
+]) [5
+
+] [6
+
+
+
+
+]
+\openout2 = `extra/abstract.aux'.
+
+ (extra/abstract.tex
+[1
+
+
+
+
+] [2
+
+
+]) [3
+
+]
+\openout2 = `extra/setup/content.aux'.
+
+ (extra/setup/content.tex [4
+
+
+
+
+
+]
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.toc [5
+
+] [6])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [7] [8
+
+
+])
+\openout2 = `chapter1/chapter1.aux'.
+
+
+(chapter1/chapter1.tex
+第一章
+[1
+
+
+
+
+
+
+
+]
+File: fig/tikz/EulerLagrange.pdf Graphic file (type pdf)
+<use fig/tikz/EulerLagrange.pdf>
+LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 124.
+ [2] [3] [4] [5] [6] [7]
+File: fig/tikz/HWENO.pdf Graphic file (type pdf)
+<use fig/tikz/HWENO.pdf>
+ [8]
+File: fig/RP_wave_pattern.pdf Graphic file (type pdf)
+<use fig/RP_wave_pattern.pdf>
+ [9] [10]
+File: fig/GRP_wave_pattern.pdf Graphic file (type pdf)
+<use fig/GRP_wave_pattern.pdf>
+ [11] [12]) [13]
+\openout2 = `chapter2/chapter2.aux'.
+
+ (chapter2/chapter2.tex [14
+
+
+
+
+
+]
+第二章
+[15
+
+] (chapter2/ta_ex1.tex [16]) (chapter2/ta_ex2.tex) [17] [18] [19] [20]
+[21]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 5
+32.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [22] [23] [24] [25] [26] [27] [28] [29] [30] [31]
+File: fig/tikz/ghostcell.pdf Graphic file (type pdf)
+<use fig/tikz/ghostcell.pdf>
+) [32]
+\openout2 = `chapter3/chapter3.aux'.
+
+ (chapter3/chapter3.tex
+第三章
+File: fig/GRP_wave_pattern.pdf Graphic file (type pdf)
+<use fig/GRP_wave_pattern.pdf>
+File: fig/RP_wave_pattern.pdf Graphic file (type pdf)
+<use fig/RP_wave_pattern.pdf>
+[33
+
+
+
+
+
+
+] [34] [35] [36] [37] [38] [39] [40] [41] [42]
+File: fig/1D/pol40.pdf Graphic file (type pdf)
+<use fig/1D/pol40.pdf>
+File: fig/1D/pol41.pdf Graphic file (type pdf)
+<use fig/1D/pol41.pdf>
+File: fig/1D/pol60.pdf Graphic file (type pdf)
+<use fig/1D/pol60.pdf>
+File: fig/1D/pol61.pdf Graphic file (type pdf)
+<use fig/1D/pol61.pdf>
+File: fig/1D/pol62.pdf Graphic file (type pdf)
+<use fig/1D/pol62.pdf>
+File: fig/1D/pol80.pdf Graphic file (type pdf)
+<use fig/1D/pol80.pdf>
+File: fig/1D/pol81.pdf Graphic file (type pdf)
+<use fig/1D/pol81.pdf>
+File: fig/1D/pol82.pdf Graphic file (type pdf)
+<use fig/1D/pol82.pdf>
+File: fig/1D/pol83.pdf Graphic file (type pdf)
+<use fig/1D/pol83.pdf>
+ [43] [44] [45] [46] [47]
+[48] [49] [50] [51] [52]
+File: fig/tikz/vartheta-1D.pdf Graphic file (type pdf)
+<use fig/tikz/vartheta-1D.pdf>
+ [53]
+File: fig/tikz/compact-1D-flux.pdf Graphic file (type pdf)
+<use fig/tikz/compact-1D-flux.pdf>
+File: fig/tikz/compact-1D-HC4.pdf Graphic file (type pdf)
+<use fig/tikz/compact-1D-HC4.pdf>
+File: fig/tikz/compact-1D-flux2.pdf Graphic file (type pdf)
+<use fig/tikz/compact-1D-flux2.pdf>
+File: fig/tikz/compact-1D-HWENO5.pdf Graphic file (type pdf)
+<use fig/tikz/compact-1D-HWENO5.pdf>
+ [54] [55] (chapter3/ta_4_ex1.tex) [56] [57]
+(chapter3/ta_4_ex2.tex) [58] (chapter3/ta_4_ex3.tex)
+File: fig/1D/Ex2.pdf Graphic file (type pdf)
+<use fig/1D/Ex2.pdf>
+ [59] [60]
+File: fig/1D/Ex3.pdf Graphic file (type pdf)
+<use fig/1D/Ex3.pdf>
+ [61]
+File: fig/1D/Ex4.pdf Graphic file (type pdf)
+<use fig/1D/Ex4.pdf>
+File: fig/1D/Ex5.pdf Graphic file (type pdf)
+<use fig/1D/Ex5.pdf>
+ [62]
+File: fig/1D/Ex6.pdf Graphic file (type pdf)
+<use fig/1D/Ex6.pdf>
+
+[63] [64] (chapter3/ta_268_ex1.tex) [65] [66] (chapter3/ta_268_ex2.tex)
+[67] [68] (chapter3/ta_268_ex3.tex)
+File: fig/Time/Time-1D.pdf Graphic file (type pdf)
+<use fig/Time/Time-1D.pdf>
+) [69] [70] [71]
+\openout2 = `chapter4/chapter4.aux'.
+
+ (chapter4/chapter4.tex
+[72
+
+
+
+
+
+]
+第四章
+[73
+
+] [74]
+File: fig/tikz/case1.pdf Graphic file (type pdf)
+<use fig/tikz/case1.pdf>
+File: fig/tikz/case2.pdf Graphic file (type pdf)
+<use fig/tikz/case2.pdf>
+File: fig/tikz/case2-2.pdf Graphic file (type pdf)
+<use fig/tikz/case2-2.pdf>
+File: fig/tikz/case2-ratation.pdf Graphic file (type pdf)
+<use fig/tikz/case2-ratation.pdf>
+File: fig/tikz/case4.pdf Graphic file (type pdf)
+<use fig/tikz/case4.pdf>
+ (chapter4/ta_coeff_2nd.tex) [75] [76] [77] [78] [79] [80]
+File: fig/tikz/vartheta-2D.pdf Graphic file (type pdf)
+<use fig/tikz/vartheta-2D.pdf>
+ [81]
+File: fig/tikz/compact-flux.pdf Graphic file (type pdf)
+<use fig/tikz/compact-flux.pdf>
+File: fig/tikz/compact-HC4.pdf Graphic file (type pdf)
+<use fig/tikz/compact-HC4.pdf>
+File: fig/tikz/compact-S2O4-HWENO5.pdf Graphic file (type pdf)
+<use fig/tikz/compact-S2O4-HWENO5.pdf>
+File: fig/tikz/compact-S2O4-HWENO4.pdf Graphic file (type pdf)
+<use fig/tikz/compact-S2O4-HWENO4.pdf>
+
+[82] [83] (chapter4/ta_4_ex1.tex) [84] [85] (chapter4/ta_4_ex2.tex) [86]
+(chapter4/ta_4_ex3.tex) [87] [88]
+File: fig/2D/RP1_S2O4-WHC4_CFL0.600000.pdf Graphic file (type pdf)
+<use fig/2D/RP1_S2O4-WHC4_CFL0.600000.pdf>
+File: fig/2D/RP1_S2O4-HHC4theta20_CFL0.600000.pdf Graphic file (type pdf)
+<use fig/2D/RP1_S2O4-HHC4theta20_CFL0.600000.pdf>
+File: fig/2D/RP14_S2O4-WHC4_CFL0.600000.pdf Graphic file (type pdf)
+<use fig/2D/RP14_S2O4-WHC4_CFL0.600000.pdf>
+File: fig/2D/RP14_S2O4-HHC4theta20_CFL0.600000.pdf Graphic file (type pdf)
+<use fig/2D/RP14_S2O4-HHC4theta20_CFL0.600000.pdf>
+ [89]
+File: fig/2D/RP15_S2O4-WHC4_CFL0.600000.pdf Graphic file (type pdf)
+<use fig/2D/RP15_S2O4-WHC4_CFL0.600000.pdf>
+File: fig/2D/RP15_S2O4-HHC4theta20_CFL0.600000.pdf Graphic file (type pdf)
+<use fig/2D/RP15_S2O4-HHC4theta20_CFL0.600000.pdf>
+File: fig/2D/DoubleMach_S2O4-WHC4_CFL0.600000.pdf Graphic file (type pdf)
+<use fig/2D/DoubleMach_S2O4-WHC4_CFL0.600000.pdf>
+File: fig/2D/DoubleMach_S2O4-HHC4theta20_CFL0.600000.pdf Graphic file (type pdf
+)
+<use fig/2D/DoubleMach_S2O4-HHC4theta20_CFL0.600000.pdf>
+ [90]
+File: fig/2D/Frontstep_S2O4-WHC4_CFL0.600000.pdf Graphic file (type pdf)
+<use fig/2D/Frontstep_S2O4-WHC4_CFL0.600000.pdf>
+File: fig/2D/Frontstep_S2O4-HHC4theta20_CFL0.600000.pdf Graphic file (type pdf)
+
+<use fig/2D/Frontstep_S2O4-HHC4theta20_CFL0.600000.pdf>
+ [91] [92] (chapter4/ta_28_ex1.tex)
+[93] (chapter4/ta_28_ex2.tex) [94] [95] (chapter4/ta_28_ex3.tex) [96] [97]
+File: fig/2D/RP1_S2O4-WHC8_CFL0.500000.pdf Graphic file (type pdf)
+<use fig/2D/RP1_S2O4-WHC8_CFL0.500000.pdf>
+File: fig/2D/RP1_S2O4-HHC8theta200000_CFL0.500000.pdf Graphic file (type pdf)
+<use fig/2D/RP1_S2O4-HHC8theta200000_CFL0.500000.pdf>
+File: fig/2D/RP14_S2O4-WHC8_CFL0.500000.pdf Graphic file (type pdf)
+<use fig/2D/RP14_S2O4-WHC8_CFL0.500000.pdf>
+File: fig/2D/RP14_S2O4-HHC8theta200000_CFL0.500000.pdf Graphic file (type pdf)
+<use fig/2D/RP14_S2O4-HHC8theta200000_CFL0.500000.pdf>
+File: fig/2D/RP15_S2O4-WHC8_CFL0.500000.pdf Graphic file (type pdf)
+<use fig/2D/RP15_S2O4-WHC8_CFL0.500000.pdf>
+File: fig/2D/RP15_S2O4-HHC8theta200000_CFL0.500000.pdf Graphic file (type pdf)
+<use fig/2D/RP15_S2O4-HHC8theta200000_CFL0.500000.pdf>
+
+[98] [99]
+File: fig/Time/Time-2D.pdf Graphic file (type pdf)
+<use fig/Time/Time-2D.pdf>
+) [100]
+\openout2 = `chapter5/chapter5.aux'.
+
+ (chapter5/chapter5.tex
+第五章
+[101
+
+
+
+
+
+
+]) [102]
+\openout2 = `extra/setup/reference.aux'.
+
+ (extra/setup/reference.tex
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.bbl [103
+
+
+
+
+
+
+
+
+] [104] [105]
+[106] [107])) [108]
+\openout2 = `extra/publications.aux'.
+
+ (extra/publications.tex
+\c@pubctr=\count372
+) [109
+
+
+
+
+
+
+
+]
+\openout2 = `extra/acknowledgements.aux'.
+
+ (extra/acknowledgements.tex
+[110
+
+
+
+
+
+] [111
+
+]) [112] (/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.aux
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/Definition.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/format.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/cover.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/Authorization.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/abstract.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/content.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter1/chapter1.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter2/chapter2.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter3/chapter3.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter4/chapter4.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/chapter5/chapter5.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/setup/reference.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/publications.aux)
+(/Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/extra/acknowledgements.aux))
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2022/07/14>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 227039D7C30E48CCECCEA59ED691C50D;13036.
+ ) 
+Here is how much of TeX's memory you used:
+ 32090 strings out of 409638
+ 679649 string characters out of 5772353
+ 1961627 words of memory out of 5000000
+ 53478 multiletter control sequences out of 15000+600000
+ 606233 words of font info for 216 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 93i,16n,97p,3302b,859s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on /Users/only/data/工作/2.九所/5.毕业/phdthesis/temp/main.xdv (126 pa
+ges, 1371944 bytes).

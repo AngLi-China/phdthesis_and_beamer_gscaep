@@ -1,0 +1,79 @@
+\documentclass[tikz]{standalone}
+\usepackage{bm} 
+\begin{document}
+\begin{tikzpicture}[thick,scale=.26,line join=round,>=latex]
+  \draw[white] (0,-1) rectangle (60,7);
+  
+  \draw (0 ,0.5)--(0 ,0);
+  \draw (6 ,0.5)--(6 ,0);
+  \draw (12,0.5)--(12,0);
+  \draw (18,0.5)--(18,0);
+  \draw (24,0.5)--(24,0);
+  \draw (30,0.5)--(30,0);
+  \draw (36,0.5)--(36,0);
+  \draw (42,0.5)--(42,0);
+  \draw (48,0.5)--(48,0);
+  \draw (54,0.5)--(54,0);
+  \draw (0,0)--(54,0);
+  \node at (3 ,-1) {$i-4$};
+  \node at (9 ,-1) {$i-3$};
+  \node at (15,-1) {$i-2$};
+  \node at (21,-1) {$i-1$};
+  \node at (27,-1) {$i  $};
+  \node at (33,-1) {$i+1$};
+  \node at (39,-1) {$i+2$};
+  \node at (45,-1) {$i+3$};
+  \node at (51,-1) {$i+4$};
+  \node[right] at (54,0.5) {$t=t^n$};
+  
+  \draw (12,3.5)--(12,3);
+  \draw (18,3.5)--(18,3);
+  \draw (24,3.5)--(24,3);
+  \draw (30,3.5)--(30,3);
+  \draw (36,3.5)--(36,3);
+  \draw (42,3.5)--(42,3);
+  \draw (12,3)--(42,3);
+  \node[right] at (42,3.5) {$t=t^{n+\frac{1}{2}}$};
+  
+  \draw (24,6.5)--(24,6);
+  \draw (30,6.5)--(30,6);
+  \draw (24,6)--(30,6);
+  \node[right] at (30,6.5) {$t=t^{n+1}$};
+  
+  \draw[black,->] (15,3)--(3 ,0.5);
+  \draw[black,->] (15,3)--(9 ,0.5);
+  \draw[black,->] (15,3)--(15,0.5);
+  \draw[black,->] (15,3)--(21,0.5);
+  \draw[black,->] (15,3)--(27,0.5);
+  
+  \draw[black,->] (21,3)--(9 ,0.5);
+  \draw[black,->] (21,3)--(15,0.5);
+  \draw[black,->] (21,3)--(21,0.5);
+  \draw[black,->] (21,3)--(27,0.5);
+  \draw[black,->] (21,3)--(33,0.5);
+  
+  \draw[black,->] (27,3)--(15,0.5);
+  \draw[black,->] (27,3)--(21,0.5);
+  \draw[black,->] (27,3)--(27,0.5);
+  \draw[black,->] (27,3)--(33,0.5);
+  \draw[black,->] (27,3)--(39,0.5);
+  
+  \draw[black,->] (33,3)--(21,0.5);
+  \draw[black,->] (33,3)--(27,0.5);
+  \draw[black,->] (33,3)--(33,0.5);
+  \draw[black,->] (33,3)--(39,0.5);
+  \draw[black,->] (33,3)--(45,0.5);
+  
+  \draw[black,->] (39,3)--(27,0.5);
+  \draw[black,->] (39,3)--(33,0.5);
+  \draw[black,->] (39,3)--(39,0.5);
+  \draw[black,->] (39,3)--(45,0.5);
+  \draw[black,->] (39,3)--(51,0.5);
+  
+  \draw[black,->] (27,6)--(15,3.5);
+  \draw[black,->] (27,6)--(21,3.5);
+  \draw[black,->] (27,6)--(27,3.5);
+  \draw[black,->] (27,6)--(33,3.5);
+  \draw[black,->] (27,6)--(39,3.5);
+\end{tikzpicture}
+\end{document}

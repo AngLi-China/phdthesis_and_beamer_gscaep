@@ -1,0 +1,497 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{du2018hermite}
+Du Z, Li J.
+\newblock A {Hermite} {WENO} reconstruction for fourth order temporal accurate
+  schemes based on the {GRP} solver for hyperbolic conservation laws[J].
+\newblock Journal of Computational Physics, 2018, 355: 385--396.
+
+\bibitem{Anderson-CFD}
+Anderson J~D, Jr.
+\newblock Computational fluid dynamics: the basics with applications[M].
+\newblock USA: McGraw-Hill International Editions, 1995.
+
+\bibitem{GRPpolytropic}
+Ben-Artzi M, Li J, Warnecke G.
+\newblock A direct {Eulerian} {GRP} scheme for compressible fluid flows[J].
+\newblock Journal of Computational Physics, 2006, 218(1): 19--43.
+
+\bibitem{AngLi-2023}
+Li A, Li J.
+\newblock {Lax-Wendroff} solvers-based {Hermite} reconstruction for hyperbolic
+  problems[J].
+\newblock Applied Mathematics and Computation, 2023, 447: 127915.
+
+\bibitem{AngLi-2024}
+Li A, Li J, Cheng J, et~al.
+\newblock High order compact {Hermite} reconstructions and their application in
+  the improved two-stage fourth order time-stepping framework for hyperbolic
+  problems: two-dimensional case[J].
+\newblock Communications in Computational Physics, Accepted.
+
+\bibitem{PP-Lagrange-MM}
+Cheng J, Shu C~W.
+\newblock Positivity-preserving {Lagrangian} scheme for multi-material
+  compressible flow[J].
+\newblock Journal of Computational Physics, 2014, 257: 143--168.
+
+\bibitem{ENO-Lagrange}
+Cheng J, Shu C~W.
+\newblock A high order {ENO} conservative {Lagrangian} type scheme for the
+  compressible {Euler} equations[J].
+\newblock Journal of Computational Physics, 2007, 227(2): 1567--1596.
+
+\bibitem{qi2018high}
+Qi J, Tian B, Li J.
+\newblock A high-resolution cell-centered {Lagrangian} method with a
+  vorticity-based adaptive nodal solver for two-dimensional compressible
+  {Euler} equations[J].
+\newblock Commun Comput Phys, 2018, 24(3): 774--790.
+
+\bibitem{noh1964cel}
+Noh W~F.
+\newblock {CEL}: A time-dependent, two-space-dimensional, coupled
+  {Euler-Lagrange} code[J].
+\newblock Advances in Research and Applications, 1964.
+
+\bibitem{franck1964mixed}
+Franck R~M, Lazarus R~B.
+\newblock Mixed {Eulerian-Lagrangian} method[J].
+\newblock Methods in computational physics, 1964, 3: 47--67.
+
+\bibitem{trulio1966theory}
+Trulio J~G.
+\newblock Theory and structure of the {AFTON} codes[R].
+\newblock Tech. Rep. AFWL-TR-66-19, Air Force Weapons Laboratory, 1966.
+
+\bibitem{hirt1974arbitrary}
+Hirt C~W, Amsden A~A, Cook J.
+\newblock An arbitrary {Lagrangian-Eulerian} computing method for all flow
+  speeds[J].
+\newblock Journal of computational physics, 1974, 14(3): 227--253.
+
+\bibitem{donea2004arbitrary}
+Donea J, Huerta A, Ponthot J~P, et~al.
+\newblock Arbitrary {Lagrangian-Eulerian} methods[J].
+\newblock Encyclopedia of computational mechanics, 2004.
+
+\bibitem{boscheri2017high}
+Boscheri W.
+\newblock High order direct {Arbitrary-Lagrangian-Eulerian} ({ALE}) finite
+  volume schemes for hyperbolic systems on unstructured meshes[J].
+\newblock Archives of Computational Methods in Engineering, 2017, 24(4):
+  751--801.
+
+\bibitem{boscheri2014direct}
+Boscheri W, Dumbser M.
+\newblock A direct {Arbitrary-Lagrangian-Eulerian} {ADER-WENO} finite volume
+  scheme on unstructured tetrahedral meshes for conservative and
+  non-conservative hyperbolic systems in {3D}[J].
+\newblock Journal of Computational Physics, 2014, 275: 484--523.
+
+\bibitem{qi2017fully}
+Qi J, Li J.
+\newblock A fully discrete {ALE} method over untwisted time--space control
+  volumes[J].
+\newblock International Journal for Numerical Methods in Fluids, 2017, 83(8):
+  625--641.
+
+\bibitem{wu2021cell}
+Wu W, Zhang A~M, Liu M.
+\newblock A cell-centered indirect {Arbitrary-Lagrangian-Eulerian}
+  discontinuous {Galerkin} scheme on moving unstructured triangular meshes with
+  topological adaptability[J].
+\newblock Journal of Computational Physics, 2021, 438: 110368.
+
+\bibitem{ReALE}
+Loubere R, Maire P~H, Shashkov M, et~al.
+\newblock {ReALE}: a reconnection-based {arbitrary-Lagrangian-Eulerian}
+  method[J].
+\newblock Journal of Computational Physics, 2010, 229(12): 4724--4761.
+
+\bibitem{sod1978survey}
+Sod G~A.
+\newblock A survey of several finite difference methods for systems of
+  nonlinear hyperbolic conservation laws[J].
+\newblock Journal of computational physics, 1978, 27(1): 1--31.
+
+\bibitem{zhang2023fifth}
+Zhang M, Zhao Z.
+\newblock A fifth-order finite difference {HWENO} scheme combined with limiter
+  for hyperbolic conservation laws[J].
+\newblock Journal of Computational Physics, 2023, 472: 111676.
+
+\bibitem{eymard2000finite}
+Eymard R, Gallou{\"e}t T, Herbin R.
+\newblock Finite volume methods[M]//Handbook of numerical analysis.
+\newblock Elsevier, 2000, vol.~7: 713--1018.
+
+\bibitem{zhu2016new}
+Zhu J, Qiu J.
+\newblock A new fifth order finite difference {WENO} scheme for solving
+  hyperbolic conservation laws[J].
+\newblock Journal of Computational Physics, 2016, 318: 110--121.
+
+\bibitem{cockburn1998DG}
+Cockburn B, Shu C~W, Johnson C, et~al.
+\newblock An introduction to the discontinuous {Galerkin} method for
+  convection-dominated problems[M]//Quarteroni A. Advanced numerical
+  approximation of nonlinear hyperbolic equations.
+\newblock Berlin, Heidelberg: Springer, 1998: 150--268.
+
+\bibitem{cockburn1991runge}
+Cockburn B, Shu C~W.
+\newblock The {Runge-Kutta} local projection {$P^1$-discontinuous-Galerkin}
+  finite element method for scalar conservation laws[J].
+\newblock ESAIM: Mathematical Modelling and Numerical Analysis, 1991, 25(3):
+  337--361.
+
+\bibitem{beam1976implicit}
+Beam R~M, Warming R~F.
+\newblock An implicit finite-difference algorithm for hyperbolic systems in
+  conservation-law form[J].
+\newblock Journal of computational physics, 1976, 22(1): 87--110.
+
+\bibitem{mulder1985experiments}
+Mulder W~A, Van~Leer B.
+\newblock Experiments with implicit upwind methods for the {Euler}
+  equations[J].
+\newblock Journal of Computational Physics, 1985, 59(2): 232--246.
+
+\bibitem{arun2020asymptotic}
+Arun K, Samantaray S.
+\newblock Asymptotic preserving low mach number accurate {IMEX} finite volume
+  schemes for the isentropic euler equations[J].
+\newblock Journal of Scientific Computing, 2020, 82: 1--32.
+
+\bibitem{tan2022stability}
+Tan M, Cheng J, Shu C~W.
+\newblock Stability of high order finite difference and local discontinuous
+  {Galerkin} schemes with explicit-implicit-null time-marching for high order
+  dissipative and dispersive equations[J].
+\newblock Journal of Computational Physics, 2022, 464: 111314.
+
+\bibitem{duchemin2014explicit}
+Duchemin L, Eggers J.
+\newblock The explicit-implicit-null method: Removing the numerical instability
+  of {PDEs}[J].
+\newblock Journal of Computational Physics, 2014, 263: 37--52.
+
+\bibitem{wang2020local}
+Wang H, Zhang Q, Wang S, et~al.
+\newblock Local discontinuous {Galerkin} methods with explicit-implicit-null
+  time discretizations for solving nonlinear diffusion problems[J].
+\newblock Science China Mathematics, 2020, 63: 183--204.
+
+\bibitem{MSMD}
+Seal D~C, G{\"u}{\c{c}}l{\"u} Y, Christlieb A~J.
+\newblock High-order multiderivative time integrators for hyperbolic
+  conservation laws[J].
+\newblock Journal of Scientific Computing, 2014, 60: 101--140.
+
+\bibitem{torobook}
+Toro E~F.
+\newblock Numerical methods for fluid dynamics: A practical introduction[M].
+\newblock Berlin, Germany: Springer, 1997.
+
+\bibitem{VANDERHOUWEN1996261}
+{van der Houwen} P.
+\newblock The development of {Runge-Kutta} methods for partial differential
+  equations[J].
+\newblock Applied Numerical Mathematics, 1996, 20(3): 261--272.
+
+\bibitem{SSP-2011}
+Gottlieb S, Ketcheson D, Shu C~W.
+\newblock Strong stability preserving {Runge-Kutta} and multistep time
+  discretizations[M].
+\newblock Singapore: World Scientific, 2011.
+
+\bibitem{Lax-Wendroff}
+Lax P, Wendroff B.
+\newblock Systems of conservation laws[J].
+\newblock Communications on Pure and Applied Mathematics, 1960, 13(2):
+  217--237.
+
+\bibitem{LW3-LW4}
+Zwas G, Abarbanel S.
+\newblock Third and fourth order accurate schemes for hyperbolic equations of
+  conservation law form[J].
+\newblock Mathematics of Computation, 1971, 25(114): 229--236.
+
+\bibitem{Qiu-Shu-2003}
+Qiu J, Shu C~W.
+\newblock Finite difference {WENO} schemes with {Lax-Wendroff-type} time
+  discretizations[J].
+\newblock SIAM Journal of Scientific Computing, 2003, 24: 2185--2198.
+
+\bibitem{Qian}
+Qian J, Li J, Wang S.
+\newblock The generalized {Riemann} problems for compressible fluid flows:
+  towards high order[J].
+\newblock Journal of Computational Physics, 2014, 259: 358--389.
+
+\bibitem{Yang}
+Wu K, Yang Z, Tang H.
+\newblock A third-order accurate direct {Eulerian} {GRP} scheme for the {Euler}
+  equations in gas dynamics[J].
+\newblock Journal of Computational Physics, 2014, 264: 177--208.
+
+\bibitem{Seal-2016}
+Christlieb A, Gottlieb S, Grant Z, et~al.
+\newblock Explicit strong stability preserving multistage two-derivative
+  time-stepping schemes[J].
+\newblock Journal of Scientific Computing, 2016, 68: 914--942.
+
+\bibitem{li2016two}
+Li J, Du Z.
+\newblock A two-stage fourth order time-accurate discretization for
+  {Lax-Wendroff} type flow solvers {I}. {Hyperbolic} conservation laws[J].
+\newblock SIAM Journal of Scientific Computing, 2016, 38(5): A3046--A3069.
+
+\bibitem{Pan-2016}
+Pan L, Xu K, Li Q, et~al.
+\newblock An efficient and accurate two-stage fourth-order gas-kinetic scheme
+  for the {Euler} and {Navier-Stokes} equations[J].
+\newblock Journal of Computational Physics, 2016, 326: 197--221.
+
+\bibitem{S2O4_wenli}
+李雯莉.
+\newblock 双曲守恒律的两步四阶时间离散的{HWENO}格式[D].
+\newblock 厦门: 厦门大学, 2020.
+
+\bibitem{PNPM}
+Dumbser M, Balsara D~S, Toro E~F, et~al.
+\newblock A unified framework for the construction of one-step finite volume
+  and discontinuous {Galerkin} schemes on unstructured meshes[J].
+\newblock Journal of Computational Physics, 2008, 227(18): 8209--8253.
+
+\bibitem{ENO-1987}
+Harten A, Engquist B, Osher S, et~al.
+\newblock Uniformly high order essentially non-oscillatory schemes, {III}[J].
+\newblock Journal of Computational Physics, 1987, 71: 231--303.
+
+\bibitem{WENO}
+Shu C~W.
+\newblock Essentially non-oscillatory and weighted essentially non-oscillatory
+  schemes for hyperbolic conservation laws[M]//Quarteroni A. Advanced numerical
+  approximation of nonlinear hyperbolic equations.
+\newblock Berlin, Heidelberg: Springer, 1998: 325--432.
+
+\bibitem{WENO-1994}
+Liu X~D, Osher S, Chan T.
+\newblock Weighted essentially non-oscillatory schemes[J].
+\newblock Journal of Computational Physics, 1994, 115(1): 200--212.
+
+\bibitem{WENO-1996}
+Jiang G~S, Shu C~W.
+\newblock Efficient implementation of weighted {ENO} schemes[J].
+\newblock Journal of Computational Physics, 1996, 126(1): 202--228.
+
+\bibitem{WENO-2020}
+Shu C~W.
+\newblock Essentially non-oscillatory and weighted essentially non-oscillatory
+  schemes[J].
+\newblock Acta Numerica, 2020, 29: 701--762.
+
+\bibitem{WENOonTRI}
+Hu C, Shu C~W.
+\newblock Weighted essentially non-oscillatory schemes on triangular meshes[J].
+\newblock Journal of Computational Physics, 1999, 150(1): 97--127.
+
+\bibitem{WENO_Z}
+Castro M, Costa B, Don W~S.
+\newblock High order weighted essentially non-oscillatory {WENO-Z} schemes for
+  hyperbolic conservation laws[J].
+\newblock Journal of Computational Physics, 2011, 230(5): 1766--1792.
+
+\bibitem{CWENO-origin}
+Capdeville G.
+\newblock A central {WENO} scheme for solving hyperbolic conservation laws on
+  non-uniform meshes[J].
+\newblock Journal of Computational Physics, 2008, 227(5): 2977--3014.
+
+\bibitem{CWENO13579}
+Zhu J, Shu C~W.
+\newblock A new type of multi-resolution {WENO} schemes with increasingly
+  higher order of accuracy[J].
+\newblock Journal of Computational Physics, 2018, 375: 659--683.
+
+\bibitem{WENOAO}
+Balsara D~S, Garain S, Shu C~W.
+\newblock An efficient class of {WENO} schemes with adaptive order[J].
+\newblock Journal of Computational Physics, 2016, 326: 780--804.
+
+\bibitem{Qiu-Shu-2004}
+Qiu J, Shu C~W.
+\newblock {Hermite} {WENO} schemes and their application as limiters for
+  {Runge-Kutta} discontinuous {Galerkin} method: one-dimensional case[J].
+\newblock Journal of Computational Physics, 2004, 193: 115--135.
+
+\bibitem{Qiu-Shu-2005}
+Qiu J, Shu C~W.
+\newblock {Hermite} {WENO} schemes and their application as limiters for
+  {Runge-Kutta} discontinuous {Galerkin} method. {II}: {Two} dimensional
+  case[J].
+\newblock Computers \& Fluids, 2005, 34: 642--663.
+
+\bibitem{DG-1989}
+Cockburn B, Shu C~W.
+\newblock {TVB} {Runge-Kutta} local projection discontinuous {Galerkin} finite
+  element method for conservation laws {II}: general framework[J].
+\newblock Mathematics of Computation, 1989, 52: 411--435.
+
+\bibitem{DG-1990}
+Cockburn B, Hou S, Shu C~W.
+\newblock The {Runge-Kutta} local projection discontinuous {Galerkin} finite
+  element method for conservation laws {IV}: the multi-dimensional case[J].
+\newblock Mathematics of Computation, 1990, 54: 545--581.
+
+\bibitem{DG-2016}
+Shu C~W.
+\newblock High order {WENO} and {DG} methods for time-dependent
+  convection-dominated {PDEs}: a brief survey of several recent
+  developments[J].
+\newblock Journal of Computational Physics, 2016, 316: 598--613.
+
+\bibitem{luo2012hermite}
+Luo H, Xia Y, Li S, et~al.
+\newblock A {Hermite} {WENO} reconstruction-based discontinuous {Galerkin}
+  method for the {Euler} equations on tetrahedral grids[J].
+\newblock Journal of Computational Physics, 2012, 231(16): 5489--5503.
+
+\bibitem{xia2014implicit}
+Xia Y, Luo H, Nourgaliev R.
+\newblock An implicit {Hermite} {WENO} reconstruction-based discontinuous
+  {Galerkin} method on tetrahedral grids[J].
+\newblock Computers \& Fluids, 2014, 96: 406--421.
+
+\bibitem{godunov}
+Godunov S~K.
+\newblock A difference scheme for numerical solution of discontinuous solution
+  of hydrodynamic equations[J].
+\newblock Mathematics Sbornik, 1959, 47: 271--306.
+
+\bibitem{Roe}
+Roe P~L.
+\newblock Approximate {Riemann} solvers, parameter vectors, and difference
+  schemes[J].
+\newblock Journal of computational physics, 1981, 43(2): 357--372.
+
+\bibitem{tang2005sonic}
+Tang H.
+\newblock On the sonic point glitch[J].
+\newblock Journal of Computational Physics, 2005, 202(2): 507--532.
+
+\bibitem{harten1983self}
+Harten A, Hyman J~M.
+\newblock Self adjusting grid methods for one-dimensional hyperbolic
+  conservation laws[J].
+\newblock Journal of computational Physics, 1983, 50(2): 235--269.
+
+\bibitem{HLL}
+Harten A, Lax P~D, {van Leer} B.
+\newblock On upstream differencing and {Godunov}-type schemes for hyperbolic
+  conservation laws[J].
+\newblock SIAM review, 1983, 25(1): 35--61.
+
+\bibitem{HLLC}
+Toro E~F, Spruce M, Speares W.
+\newblock Restoration of the contact surface in the {HLL}-{Riemann} solver[J].
+\newblock Shock waves, 1994, 4: 25--34.
+
+\bibitem{GRPgeneral}
+Ben-Artzi M, Falcovitz J.
+\newblock A second-order {Godunov}-type scheme for compressible fluid
+  dynamics[J].
+\newblock Journal of Computational Physics, 1984, 55(1): 1--32.
+
+\bibitem{GRP}
+Li J, Wang Y.
+\newblock Thermodynamical effects and high resolution methods for compressible
+  fluid flows[J].
+\newblock Journal of Computational Physics, 2017, 343: 340--354.
+
+\bibitem{GRP_qi}
+齐进.
+\newblock 二维欧拉方程组广义黎曼问题数值建模及其应用[D].
+\newblock 北京: 北京师范大学, 2017.
+
+\bibitem{Kreiss-book}
+Kress R.
+\newblock Numerical analysis[M].
+\newblock Springer, 1998.
+
+\bibitem{van-Leer}
+{van Leer} B.
+\newblock Towards the ultimate conservative difference scheme. {V}. {A} second
+  order sequel to {Godunov}'s method[J].
+\newblock Journal of Computational Physics, 1979, 32: 101--136.
+
+\bibitem{Book-Matania}
+Ben-Artzi M, Falcovitz J.
+\newblock Generalized {Riemann} problems in computational fluid dynamics[M].
+\newblock Cambridge University Press, 2003.
+
+\bibitem{zhao2019compact}
+Zhao F, Ji X, Shyy W, et~al.
+\newblock Compact higher-order gas-kinetic schemes with spectral-like
+  resolution for compressible flow simulations[J].
+\newblock Advances in Aerodynamics, 2019, 1(1): 13.
+
+\bibitem{hybrid-first}
+Adams N~A, Shariff K.
+\newblock A high-resolution hybrid compact-{ENO} scheme for shock-turbulence
+  interaction problems[J].
+\newblock Journal of Computational Physics, 1996, 127(1): 27--51.
+
+\bibitem{hybrid-2015}
+Liu X, Zhang S, Zhang H, et~al.
+\newblock A new class of central compact schemes with spectral-like resolution
+  {II}: Hybrid weighted nonlinear schemes[J].
+\newblock Journal of Computational Physics, 2015, 284: 133--154.
+
+\bibitem{Gamma3-HWENO}
+Li J, Shu C~W, Qiu J.
+\newblock Multi-resolution {HWENO} schemes for hyperbolic conservation laws[J].
+\newblock Journal of Computational Physics, 2021, 446: 110653.
+
+\bibitem{ShuOsherProblem}
+Shu C~W, Osher S.
+\newblock Efficient implementation of essentially non-oscillatory
+  shock-capturing schemes, {II}[J].
+\newblock Journal of computational physics, 1989, 83(1): 32--78.
+
+\bibitem{ToroProblem}
+Titarev V~A, Toro E~F.
+\newblock Finite-volume {WENO} schemes for three-dimensional conservation
+  laws[J].
+\newblock Journal of Computational Physics, 2004, 201(1): 238--260.
+
+\bibitem{frontStep-BlastProblem}
+Woodward P, Colella P.
+\newblock The numerical simulation of two-dimensional fluid flow with strong
+  shocks[J].
+\newblock Journal of Computational Physics, 1984, 54(1): 115--173.
+
+\bibitem{LPDRP}
+Tang H, Liu T.
+\newblock A note on the conservative schemes for the {Euler} equations[J].
+\newblock Journal of Computational Physics, 2006, 218(2): 451--459.
+
+\bibitem{RPexample}
+Han E, Li J, Tang H.
+\newblock Accuracy of the adaptive {GRP} scheme and the simulation of {2-D}
+  {Riemann} problems for compressible {Euler} equations[J].
+\newblock Communications in Computational Physics, 2011, 10(3): 577--609.
+
+\end{thebibliography}

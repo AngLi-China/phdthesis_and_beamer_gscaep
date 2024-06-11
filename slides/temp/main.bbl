@@ -1,0 +1,1715 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{VANDERHOUWEN1996261}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cece37baaea1e4ef3003c89f1b908d8c}{%
+           family={{van der Houwen}},
+           familyi={v\bibinitperiod},
+           given={P.J.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cece37baaea1e4ef3003c89f1b908d8c}
+      \strng{fullhash}{cece37baaea1e4ef3003c89f1b908d8c}
+      \strng{bibnamehash}{cece37baaea1e4ef3003c89f1b908d8c}
+      \strng{authorbibnamehash}{cece37baaea1e4ef3003c89f1b908d8c}
+      \strng{authornamehash}{cece37baaea1e4ef3003c89f1b908d8c}
+      \strng{authorfullhash}{cece37baaea1e4ef3003c89f1b908d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0168-9274}
+      \field{journaltitle}{Applied Numerical Mathematics}
+      \field{number}{3}
+      \field{title}{The development of {Runge-Kutta} methods for partial differential equations}
+      \field{volume}{20}
+      \field{year}{1996}
+      \field{pages}{261\bibrangedash 272}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/0168-9274(95)00109-3
+      \endverb
+    \endentry
+    \entry{SSP-2011}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4b57c63db865ccff156d117069235bc5}{%
+           family={Gottlieb},
+           familyi={G\bibinitperiod},
+           given={Sigal},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc0647a89d8ee639fa98cd3bdba791c0}{%
+           family={Ketcheson},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {World Scientific}%
+      }
+      \strng{namehash}{c8337c8bd38b3b78f5584934b96d43da}
+      \strng{fullhash}{c8337c8bd38b3b78f5584934b96d43da}
+      \strng{bibnamehash}{c8337c8bd38b3b78f5584934b96d43da}
+      \strng{authorbibnamehash}{c8337c8bd38b3b78f5584934b96d43da}
+      \strng{authornamehash}{c8337c8bd38b3b78f5584934b96d43da}
+      \strng{authorfullhash}{c8337c8bd38b3b78f5584934b96d43da}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Strong stability preserving {Runge-Kutta} and multistep time discretizations}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.1142/7498
+      \endverb
+    \endentry
+    \entry{Lax-Wendroff}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=b7901a1bf2042bbecc84eef156d37f9c}{%
+           family={Lax},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=a22e560279c0d4a2400d8017c01ca38b}{%
+           family={Wendroff},
+           familyi={W\bibinitperiod},
+           given={Burton},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4717c65e984c422fc29482022e2a2671}
+      \strng{fullhash}{4717c65e984c422fc29482022e2a2671}
+      \strng{bibnamehash}{4717c65e984c422fc29482022e2a2671}
+      \strng{authorbibnamehash}{4717c65e984c422fc29482022e2a2671}
+      \strng{authornamehash}{4717c65e984c422fc29482022e2a2671}
+      \strng{authorfullhash}{4717c65e984c422fc29482022e2a2671}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications on Pure and Applied Mathematics}
+      \field{number}{2}
+      \field{title}{Systems of conservation laws}
+      \field{volume}{13}
+      \field{year}{1960}
+      \field{pages}{217\bibrangedash 237}
+      \range{pages}{21}
+    \endentry
+    \entry{LW3-LW4}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=54740efdd0851efc312e4070e0c2e1be}{%
+           family={Zwas},
+           familyi={Z\bibinitperiod},
+           given={Gideon},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edab5570ac0a2f7b1108da5aceb1865f}{%
+           family={Abarbanel},
+           familyi={A\bibinitperiod},
+           given={Saul},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aa1ef18a8811124d2e50fc7ddcc77077}
+      \strng{fullhash}{aa1ef18a8811124d2e50fc7ddcc77077}
+      \strng{bibnamehash}{aa1ef18a8811124d2e50fc7ddcc77077}
+      \strng{authorbibnamehash}{aa1ef18a8811124d2e50fc7ddcc77077}
+      \strng{authornamehash}{aa1ef18a8811124d2e50fc7ddcc77077}
+      \strng{authorfullhash}{aa1ef18a8811124d2e50fc7ddcc77077}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematics of Computation}
+      \field{number}{114}
+      \field{title}{Third and fourth order accurate schemes for hyperbolic equations of conservation law form}
+      \field{volume}{25}
+      \field{year}{1971}
+      \field{pages}{229\bibrangedash 236}
+      \range{pages}{8}
+    \endentry
+    \entry{MSMD}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b0c4831b2c9dc1518f108787814d3a4c}{%
+           family={Seal},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima C},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4173c3e28a43f82f57dc8b962d95bc09}{%
+           family={Güçlü},
+           familyi={G\bibinitperiod},
+           given={Yaman},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=c2507e503dddc665342a617c3a73b969}{%
+           family={Christlieb},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{aa6890a49f14186a99564e31d9fef6af}
+      \strng{fullhash}{aa6890a49f14186a99564e31d9fef6af}
+      \strng{bibnamehash}{aa6890a49f14186a99564e31d9fef6af}
+      \strng{authorbibnamehash}{aa6890a49f14186a99564e31d9fef6af}
+      \strng{authornamehash}{aa6890a49f14186a99564e31d9fef6af}
+      \strng{authorfullhash}{aa6890a49f14186a99564e31d9fef6af}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Scientific Computing}
+      \field{title}{High-order multiderivative time integrators for hyperbolic conservation laws}
+      \field{volume}{60}
+      \field{year}{2014}
+      \field{pages}{101\bibrangedash 140}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1007/s10915-013-9787-8
+      \endverb
+    \endentry
+    \entry{Seal-2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=1341ad909954c8f34bfaf49a045e16f5}{%
+           family={Christlieb},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=cb90f523b4faa8ed3b46d87fe6e6c3d5}{%
+           family={Gottlieb},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1fac4e479bfb05f1db4a58fa474dffc2}{%
+           family={Grant},
+           familyi={G\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=147e85c180208de2ee51fd2bb88fade6}{%
+           family={Seal},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c476f8905a7f6650b2bb85ec79c733c7}
+      \strng{fullhash}{52d669757f52f9073d7e55621074d82a}
+      \strng{bibnamehash}{c476f8905a7f6650b2bb85ec79c733c7}
+      \strng{authorbibnamehash}{c476f8905a7f6650b2bb85ec79c733c7}
+      \strng{authornamehash}{c476f8905a7f6650b2bb85ec79c733c7}
+      \strng{authorfullhash}{52d669757f52f9073d7e55621074d82a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Scientific Computing}
+      \field{title}{Explicit strong stability preserving multistage two-derivative time-stepping schemes}
+      \field{volume}{68}
+      \field{year}{2016}
+      \field{pages}{914\bibrangedash 942}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1007/s10915-016-0195-8
+      \endverb
+    \endentry
+    \entry{li2016two}{article}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=102c6ad49eb8d37d03c2d1ca0934d452}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiequan},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=28ae734b46323cb0698877ff303b7e05}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Zhifang},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SIAM}%
+      }
+      \strng{namehash}{f5567edca052261074cbc668027a6d8a}
+      \strng{fullhash}{f5567edca052261074cbc668027a6d8a}
+      \strng{bibnamehash}{f5567edca052261074cbc668027a6d8a}
+      \strng{authorbibnamehash}{f5567edca052261074cbc668027a6d8a}
+      \strng{authornamehash}{f5567edca052261074cbc668027a6d8a}
+      \strng{authorfullhash}{f5567edca052261074cbc668027a6d8a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM Journal of Scientific Computing}
+      \field{number}{5}
+      \field{title}{A two-stage fourth order time-accurate discretization for {Lax-Wendroff} type flow solvers {I}. {Hyperbolic} conservation laws}
+      \field{volume}{38}
+      \field{year}{2016}
+      \field{pages}{A3046\bibrangedash A3069}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1137/15M1052512
+      \endverb
+    \endentry
+    \entry{Pan-2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=31d5ff7d00790cb06a91b4ffc06c19c2}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4dc68630a2cfa03b727ed6c81449837}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34eb0d3545d5a6175d27a342936002b1}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef065b28c31984323fd6d3483d29aafd}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c1e655d4b0e1044a1ce7ee6956b15dc2}
+      \strng{fullhash}{66b079a1a348c29e9ee314c28027beb6}
+      \strng{bibnamehash}{c1e655d4b0e1044a1ce7ee6956b15dc2}
+      \strng{authorbibnamehash}{c1e655d4b0e1044a1ce7ee6956b15dc2}
+      \strng{authornamehash}{c1e655d4b0e1044a1ce7ee6956b15dc2}
+      \strng{authorfullhash}{66b079a1a348c29e9ee314c28027beb6}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{title}{An efficient and accurate two-stage fourth-order gas-kinetic scheme for the {Euler} and Navier-Stokes equations}
+      \field{volume}{326}
+      \field{year}{2016}
+      \field{pages}{197\bibrangedash 221}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/j.jcp.2016.08.054
+      \endverb
+    \endentry
+    \entry{ENO-1987}{article}{}
+      \name{author}{4}{}{%
+        {{un=2,uniquepart=given,hash=f4c5bedc5d15b72c85e262d65e016a46}{%
+           family={Harten},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=4d14a4c1e50a18729f5fa64167ecba5b}{%
+           family={Engquist},
+           familyi={E\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=510654e188fd27bfc0722dbc78808fed}{%
+           family={Osher},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a117a53bdb9f9e8b46221129fa410cf}{%
+           family={Chakravarthy},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d608969b3372a4626a67bf67549104e2}
+      \strng{fullhash}{1e7c90dcce9d08514b5d892137732abc}
+      \strng{bibnamehash}{d608969b3372a4626a67bf67549104e2}
+      \strng{authorbibnamehash}{d608969b3372a4626a67bf67549104e2}
+      \strng{authornamehash}{d608969b3372a4626a67bf67549104e2}
+      \strng{authorfullhash}{1e7c90dcce9d08514b5d892137732abc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{title}{Uniformly high order essentially non-oscillatory schemes, {III}}
+      \field{volume}{71}
+      \field{year}{1987}
+      \field{pages}{231\bibrangedash 303}
+      \range{pages}{73}
+      \verb{doi}
+      \verb 10.1016/0021-9991(87)90031-3
+      \endverb
+    \endentry
+    \entry{WENO}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c28a2501b2d78ab05e717a1f7a22209f}{%
+           family={Quarteroni},
+           familyi={Q\bibinitperiod},
+           given={Alfio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{fullhash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{bibnamehash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{authorbibnamehash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{authornamehash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{authorfullhash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{editorbibnamehash}{c28a2501b2d78ab05e717a1f7a22209f}
+      \strng{editornamehash}{c28a2501b2d78ab05e717a1f7a22209f}
+      \strng{editorfullhash}{c28a2501b2d78ab05e717a1f7a22209f}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advanced numerical approximation of nonlinear hyperbolic equations}
+      \field{isbn}{978-3-540-49804-9}
+      \field{title}{Essentially non-oscillatory and weighted essentially non-oscillatory schemes for hyperbolic conservation laws}
+      \field{year}{1998}
+      \field{pages}{325\bibrangedash 432}
+      \range{pages}{108}
+      \verb{doi}
+      \verb 10.1007/BFb0096355
+      \endverb
+    \endentry
+    \entry{WENO-1994}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=5c6a95f067d1ef43ac8170bd7d7ab58c}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xu-Dong},
+           giveni={X\bibinithyphendelim D\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=d4ee7c8daf846ee1eddbbe56e4d658d9}{%
+           family={Osher},
+           familyi={O\bibinitperiod},
+           given={Stanley},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44f70ff973c59ee0935aae9279223d8e}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a4322fdee553b4e186c120a8036576a1}
+      \strng{fullhash}{a4322fdee553b4e186c120a8036576a1}
+      \strng{bibnamehash}{a4322fdee553b4e186c120a8036576a1}
+      \strng{authorbibnamehash}{a4322fdee553b4e186c120a8036576a1}
+      \strng{authornamehash}{a4322fdee553b4e186c120a8036576a1}
+      \strng{authorfullhash}{a4322fdee553b4e186c120a8036576a1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{1}
+      \field{title}{Weighted essentially non-oscillatory schemes}
+      \field{volume}{115}
+      \field{year}{1994}
+      \field{pages}{200\bibrangedash 212}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1006/jcph.1994.1187
+      \endverb
+    \endentry
+    \entry{WENO-1996}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0fadd332b2596025e9bdaa2709ac10a8}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Guang-Shan},
+           giveni={G\bibinithyphendelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{63b71b2749b817ccab0ce53da044c7f3}
+      \strng{fullhash}{63b71b2749b817ccab0ce53da044c7f3}
+      \strng{bibnamehash}{63b71b2749b817ccab0ce53da044c7f3}
+      \strng{authorbibnamehash}{63b71b2749b817ccab0ce53da044c7f3}
+      \strng{authornamehash}{63b71b2749b817ccab0ce53da044c7f3}
+      \strng{authorfullhash}{63b71b2749b817ccab0ce53da044c7f3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{1}
+      \field{title}{Efficient implementation of weighted {ENO} schemes}
+      \field{volume}{126}
+      \field{year}{1996}
+      \field{pages}{202\bibrangedash 228}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1006/jcph.1996.0130
+      \endverb
+    \endentry
+    \entry{WENO-2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{fullhash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{bibnamehash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{authorbibnamehash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{authornamehash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{authorfullhash}{0316cefd59f32815e356c1128b2ef3c0}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Numerica}
+      \field{title}{Essentially non-oscillatory and weighted essentially non-oscillatory schemes}
+      \field{volume}{29}
+      \field{year}{2020}
+      \field{pages}{701\bibrangedash 762}
+      \range{pages}{62}
+      \verb{doi}
+      \verb 10.1017/S0962492920000057
+      \endverb
+    \endentry
+    \entry{WENOonTRI}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=96b7fb01f55e67f440944c99c28e7c14}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Changqing},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{29b11b5c5598c00be1faaa693f43c96c}
+      \strng{fullhash}{29b11b5c5598c00be1faaa693f43c96c}
+      \strng{bibnamehash}{29b11b5c5598c00be1faaa693f43c96c}
+      \strng{authorbibnamehash}{29b11b5c5598c00be1faaa693f43c96c}
+      \strng{authornamehash}{29b11b5c5598c00be1faaa693f43c96c}
+      \strng{authorfullhash}{29b11b5c5598c00be1faaa693f43c96c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{1}
+      \field{title}{Weighted essentially non-oscillatory schemes on triangular meshes}
+      \field{volume}{150}
+      \field{year}{1999}
+      \field{pages}{97\bibrangedash 127}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1006/jcph.1998.6165
+      \endverb
+    \endentry
+    \entry{WENO_Z}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f85ff5bb2990b6d9aa29ef68674aa127}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Marcos},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28fdcc2e216218c42745023beb8db7a9}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2fc76591877b793c6f0f6895ef8a370}{%
+           family={Don},
+           familyi={D\bibinitperiod},
+           given={Wai\bibnamedelima Sun},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4d15b072b7d40105690a2f70d3a099ab}
+      \strng{fullhash}{4d15b072b7d40105690a2f70d3a099ab}
+      \strng{bibnamehash}{4d15b072b7d40105690a2f70d3a099ab}
+      \strng{authorbibnamehash}{4d15b072b7d40105690a2f70d3a099ab}
+      \strng{authornamehash}{4d15b072b7d40105690a2f70d3a099ab}
+      \strng{authorfullhash}{4d15b072b7d40105690a2f70d3a099ab}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{5}
+      \field{title}{High order weighted essentially non-oscillatory {WENO-Z} schemes for hyperbolic conservation laws}
+      \field{volume}{230}
+      \field{year}{2011}
+      \field{pages}{1766\bibrangedash 1792}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1016/j.jcp.2010.11.028
+      \endverb
+    \endentry
+    \entry{CWENO-origin}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=90f3419f0efce8dc4d171a43e915f2f6}{%
+           family={Capdeville},
+           familyi={C\bibinitperiod},
+           given={Guy},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{90f3419f0efce8dc4d171a43e915f2f6}
+      \strng{fullhash}{90f3419f0efce8dc4d171a43e915f2f6}
+      \strng{bibnamehash}{90f3419f0efce8dc4d171a43e915f2f6}
+      \strng{authorbibnamehash}{90f3419f0efce8dc4d171a43e915f2f6}
+      \strng{authornamehash}{90f3419f0efce8dc4d171a43e915f2f6}
+      \strng{authorfullhash}{90f3419f0efce8dc4d171a43e915f2f6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{5}
+      \field{title}{A central {WENO} scheme for solving hyperbolic conservation laws on non-uniform meshes}
+      \field{volume}{227}
+      \field{year}{2008}
+      \field{pages}{2977\bibrangedash 3014}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1016/j.jcp.2007.11.029
+      \endverb
+    \endentry
+    \entry{CWENO13579}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7a47a154652ccc647a0e6adf1570095a}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6acd1b8ca8cd8f94601b0d2165df35a8}
+      \strng{fullhash}{6acd1b8ca8cd8f94601b0d2165df35a8}
+      \strng{bibnamehash}{6acd1b8ca8cd8f94601b0d2165df35a8}
+      \strng{authorbibnamehash}{6acd1b8ca8cd8f94601b0d2165df35a8}
+      \strng{authornamehash}{6acd1b8ca8cd8f94601b0d2165df35a8}
+      \strng{authorfullhash}{6acd1b8ca8cd8f94601b0d2165df35a8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{title}{A new type of multi-resolution {WENO} schemes with increasingly higher order of accuracy}
+      \field{volume}{375}
+      \field{year}{2018}
+      \field{pages}{659\bibrangedash 683}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/j.jcp.2018.09.003
+      \endverb
+    \endentry
+    \entry{WENOAO}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0f36d67e2b5d61f0b8490c0b4e8e6b28}{%
+           family={Balsara},
+           familyi={B\bibinitperiod},
+           given={Dinshaw\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24e9c78cc5445d0375fcca6c4a6f7e2d}{%
+           family={Garain},
+           familyi={G\bibinitperiod},
+           given={Sudip},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5342fd8feb0a80ae796333b18ad4b319}
+      \strng{fullhash}{5342fd8feb0a80ae796333b18ad4b319}
+      \strng{bibnamehash}{5342fd8feb0a80ae796333b18ad4b319}
+      \strng{authorbibnamehash}{5342fd8feb0a80ae796333b18ad4b319}
+      \strng{authornamehash}{5342fd8feb0a80ae796333b18ad4b319}
+      \strng{authorfullhash}{5342fd8feb0a80ae796333b18ad4b319}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{title}{An efficient class of {WENO} schemes with adaptive order}
+      \field{volume}{326}
+      \field{year}{2016}
+      \field{pages}{780\bibrangedash 804}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/j.jcp.2019.109062
+      \endverb
+    \endentry
+    \entry{Qiu-Shu-2004}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3729afea8778b7b4cf30262385170ca8}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Jianxian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f02b8933b83fb3025b89a9eeea19ad9}
+      \strng{fullhash}{0f02b8933b83fb3025b89a9eeea19ad9}
+      \strng{bibnamehash}{0f02b8933b83fb3025b89a9eeea19ad9}
+      \strng{authorbibnamehash}{0f02b8933b83fb3025b89a9eeea19ad9}
+      \strng{authornamehash}{0f02b8933b83fb3025b89a9eeea19ad9}
+      \strng{authorfullhash}{0f02b8933b83fb3025b89a9eeea19ad9}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{title}{Hermite {WENO} schemes and their application as limiters for {Runge-Kutta} discontinuous {Galerkin} method: one-dimensional case}
+      \field{volume}{193}
+      \field{year}{2004}
+      \field{pages}{115\bibrangedash 135}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1016/j.jcp.2003.07.026
+      \endverb
+    \endentry
+    \entry{Qiu-Shu-2005}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3729afea8778b7b4cf30262385170ca8}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Jianxian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f02b8933b83fb3025b89a9eeea19ad9}
+      \strng{fullhash}{0f02b8933b83fb3025b89a9eeea19ad9}
+      \strng{bibnamehash}{0f02b8933b83fb3025b89a9eeea19ad9}
+      \strng{authorbibnamehash}{0f02b8933b83fb3025b89a9eeea19ad9}
+      \strng{authornamehash}{0f02b8933b83fb3025b89a9eeea19ad9}
+      \strng{authorfullhash}{0f02b8933b83fb3025b89a9eeea19ad9}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers \& Fluids}
+      \field{title}{Hermite {WENO} schemes and their application as limiters for {Runge-Kutta} discontinuous {Galerkin} method. {II}: {Two} dimensional case}
+      \field{volume}{34}
+      \field{year}{2005}
+      \field{pages}{642\bibrangedash 663}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1016/j.compfluid.2004.05.005
+      \endverb
+    \endentry
+    \entry{DG-1989}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a862e1da6d04641d986b5d3eace69664}{%
+           family={Cockburn},
+           familyi={C\bibinitperiod},
+           given={Bernardo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a0abf0da9df700b2876975d7b40811c7}
+      \strng{fullhash}{a0abf0da9df700b2876975d7b40811c7}
+      \strng{bibnamehash}{a0abf0da9df700b2876975d7b40811c7}
+      \strng{authorbibnamehash}{a0abf0da9df700b2876975d7b40811c7}
+      \strng{authornamehash}{a0abf0da9df700b2876975d7b40811c7}
+      \strng{authorfullhash}{a0abf0da9df700b2876975d7b40811c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematics of Computation}
+      \field{title}{{TVB} {Runge-Kutta} local projection discontinuous {Galerkin} finite element method for conservation laws {II}: general framework}
+      \field{volume}{52}
+      \field{year}{1989}
+      \field{pages}{411\bibrangedash 435}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.2307/2008474
+      \endverb
+    \endentry
+    \entry{DG-1990}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a862e1da6d04641d986b5d3eace69664}{%
+           family={Cockburn},
+           familyi={C\bibinitperiod},
+           given={Bernardo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c337cac5417bb6e8eb0eeb0b8332cfe}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{37cc62be9c249fec7951186cc403b620}
+      \strng{fullhash}{37cc62be9c249fec7951186cc403b620}
+      \strng{bibnamehash}{37cc62be9c249fec7951186cc403b620}
+      \strng{authorbibnamehash}{37cc62be9c249fec7951186cc403b620}
+      \strng{authornamehash}{37cc62be9c249fec7951186cc403b620}
+      \strng{authorfullhash}{37cc62be9c249fec7951186cc403b620}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematics of Computation}
+      \field{title}{The {Runge-Kutta} local projection discontinuous {Galerkin} finite element method for conservation laws {IV}: the multi-dimensional case}
+      \field{volume}{54}
+      \field{year}{1990}
+      \field{pages}{545\bibrangedash 581}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.2307/2008501
+      \endverb
+    \endentry
+    \entry{DG-2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{fullhash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{bibnamehash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{authorbibnamehash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{authornamehash}{0316cefd59f32815e356c1128b2ef3c0}
+      \strng{authorfullhash}{0316cefd59f32815e356c1128b2ef3c0}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{title}{High order {WENO} and {DG} methods for time-dependent convection-dominated {PDEs}: a brief survey of several recent developments}
+      \field{volume}{316}
+      \field{year}{2016}
+      \field{pages}{598\bibrangedash 613}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.jcp.2016.04.030
+      \endverb
+    \endentry
+    \entry{PNPM}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=39c929ab6732c626302912bf8c911950}{%
+           family={Dumbser},
+           familyi={D\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f36d67e2b5d61f0b8490c0b4e8e6b28}{%
+           family={Balsara},
+           familyi={B\bibinitperiod},
+           given={Dinshaw\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d08402bc1d8b752e447abc9b0a2d039c}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={Eleuterio\bibnamedelima F},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d92207fc90bce47bc0a789e74abd02b}{%
+           family={Munz},
+           familyi={M\bibinitperiod},
+           given={Claus-Dieter},
+           giveni={C\bibinithyphendelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0e4175d6dc2c17c49175c310b32d46cd}
+      \strng{fullhash}{429a198f78092e9aff7a9152aa4a025d}
+      \strng{bibnamehash}{0e4175d6dc2c17c49175c310b32d46cd}
+      \strng{authorbibnamehash}{0e4175d6dc2c17c49175c310b32d46cd}
+      \strng{authornamehash}{0e4175d6dc2c17c49175c310b32d46cd}
+      \strng{authorfullhash}{429a198f78092e9aff7a9152aa4a025d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{18}
+      \field{title}{A unified framework for the construction of one-step finite volume and discontinuous {Galerkin} schemes on unstructured meshes}
+      \field{volume}{227}
+      \field{year}{2008}
+      \field{pages}{8209\bibrangedash 8253}
+      \range{pages}{45}
+    \endentry
+    \entry{luo2012hermite}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=4f1f99c270d7c551597612ddb5968b47}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=223437dacc3b1a1d39e4a727f5c7a27d}{%
+           family={Xia},
+           familyi={X\bibinitperiod},
+           given={Yidong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b7eb8a2e7705635a0b5e9d8613a93bc}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shujie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05ea4ab842ee2d8232e8afbea12c0e80}{%
+           family={Nourgaliev},
+           familyi={N\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73754f114734efd6506771ebacd4c0ef}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Chunpei},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{74a52e0985f16ee39c1e1ae09675f67e}
+      \strng{fullhash}{f8f04f84ae6ffa26104338c88b3c677a}
+      \strng{bibnamehash}{74a52e0985f16ee39c1e1ae09675f67e}
+      \strng{authorbibnamehash}{74a52e0985f16ee39c1e1ae09675f67e}
+      \strng{authornamehash}{74a52e0985f16ee39c1e1ae09675f67e}
+      \strng{authorfullhash}{f8f04f84ae6ffa26104338c88b3c677a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{16}
+      \field{title}{A {Hermite} {WENO} reconstruction-based discontinuous {Galerkin} method for the {Euler} equations on tetrahedral grids}
+      \field{volume}{231}
+      \field{year}{2012}
+      \field{pages}{5489\bibrangedash 5503}
+      \range{pages}{15}
+    \endentry
+    \entry{xia2014implicit}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=223437dacc3b1a1d39e4a727f5c7a27d}{%
+           family={Xia},
+           familyi={X\bibinitperiod},
+           given={Yidong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f1f99c270d7c551597612ddb5968b47}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05ea4ab842ee2d8232e8afbea12c0e80}{%
+           family={Nourgaliev},
+           familyi={N\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c831a0036ddd380804b44c346343b35e}
+      \strng{fullhash}{c831a0036ddd380804b44c346343b35e}
+      \strng{bibnamehash}{c831a0036ddd380804b44c346343b35e}
+      \strng{authorbibnamehash}{c831a0036ddd380804b44c346343b35e}
+      \strng{authornamehash}{c831a0036ddd380804b44c346343b35e}
+      \strng{authorfullhash}{c831a0036ddd380804b44c346343b35e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers \& Fluids}
+      \field{title}{An implicit Hermite {WENO} reconstruction-based discontinuous {Galerkin} method on tetrahedral grids}
+      \field{volume}{96}
+      \field{year}{2014}
+      \field{pages}{406\bibrangedash 421}
+      \range{pages}{16}
+    \endentry
+    \entry{godunov}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=53790e314cac7087c1e269a7463acaf2}{%
+           family={Godunov},
+           familyi={G\bibinitperiod},
+           given={Sergei\bibnamedelima Konstantinovich},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{53790e314cac7087c1e269a7463acaf2}
+      \strng{fullhash}{53790e314cac7087c1e269a7463acaf2}
+      \strng{bibnamehash}{53790e314cac7087c1e269a7463acaf2}
+      \strng{authorbibnamehash}{53790e314cac7087c1e269a7463acaf2}
+      \strng{authornamehash}{53790e314cac7087c1e269a7463acaf2}
+      \strng{authorfullhash}{53790e314cac7087c1e269a7463acaf2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematics Sbornik}
+      \field{title}{A difference scheme for numerical solution of discontinuous solution of hydrodynamic equations}
+      \field{volume}{47}
+      \field{year}{1959}
+      \field{pages}{271\bibrangedash 306}
+      \range{pages}{36}
+    \endentry
+    \entry{Roe}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3e16a30b5b12d6c09c32ca487a7944df}{%
+           family={Roe},
+           familyi={R\bibinitperiod},
+           given={Philip\bibnamedelima L},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3e16a30b5b12d6c09c32ca487a7944df}
+      \strng{fullhash}{3e16a30b5b12d6c09c32ca487a7944df}
+      \strng{bibnamehash}{3e16a30b5b12d6c09c32ca487a7944df}
+      \strng{authorbibnamehash}{3e16a30b5b12d6c09c32ca487a7944df}
+      \strng{authornamehash}{3e16a30b5b12d6c09c32ca487a7944df}
+      \strng{authorfullhash}{3e16a30b5b12d6c09c32ca487a7944df}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of computational physics}
+      \field{number}{2}
+      \field{title}{Approximate {Riemann} solvers, parameter vectors, and difference schemes}
+      \field{volume}{43}
+      \field{year}{1981}
+      \field{pages}{357\bibrangedash 372}
+      \range{pages}{16}
+    \endentry
+    \entry{HLL}{article}{}
+      \name{author}{3}{}{%
+        {{un=2,uniquepart=given,hash=b31882597bb5adf5c5cf5989e6bfa154}{%
+           family={Harten},
+           familyi={H\bibinitperiod},
+           given={Amiram},
+           giveni={A\bibinitperiod},
+           givenun=2}}%
+        {{un=1,uniquepart=given,hash=abbc763550a217a607ccd737ae8ee05f}{%
+           family={Lax},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima D},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=b48c5d30cf09e44c5ae863d0ab28103c}{%
+           family={Leer},
+           familyi={L\bibinitperiod},
+           given={Bram\bibnamedelima van},
+           giveni={B\bibinitperiod\bibinitdelim v\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SIAM}%
+      }
+      \strng{namehash}{58c3abd78bdf3ce04701481c73bcbf39}
+      \strng{fullhash}{58c3abd78bdf3ce04701481c73bcbf39}
+      \strng{bibnamehash}{58c3abd78bdf3ce04701481c73bcbf39}
+      \strng{authorbibnamehash}{58c3abd78bdf3ce04701481c73bcbf39}
+      \strng{authornamehash}{58c3abd78bdf3ce04701481c73bcbf39}
+      \strng{authorfullhash}{58c3abd78bdf3ce04701481c73bcbf39}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM review}
+      \field{number}{1}
+      \field{title}{On upstream differencing and {Godunov}-type schemes for hyperbolic conservation laws}
+      \field{volume}{25}
+      \field{year}{1983}
+      \field{pages}{35\bibrangedash 61}
+      \range{pages}{27}
+    \endentry
+    \entry{HLLC}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d08402bc1d8b752e447abc9b0a2d039c}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={Eleuterio\bibnamedelima F},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d52251edddff7970bfc58155a265681b}{%
+           family={Spruce},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2300550393b6bf57fd0d3bfa1c3b3dc6}{%
+           family={Speares},
+           familyi={S\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{6ab4776955957df55f6921ad155a0106}
+      \strng{fullhash}{6ab4776955957df55f6921ad155a0106}
+      \strng{bibnamehash}{6ab4776955957df55f6921ad155a0106}
+      \strng{authorbibnamehash}{6ab4776955957df55f6921ad155a0106}
+      \strng{authornamehash}{6ab4776955957df55f6921ad155a0106}
+      \strng{authorfullhash}{6ab4776955957df55f6921ad155a0106}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Shock waves}
+      \field{title}{Restoration of the contact surface in the {HLL}-{Riemann} solver}
+      \field{volume}{4}
+      \field{year}{1994}
+      \field{pages}{25\bibrangedash 34}
+      \range{pages}{10}
+    \endentry
+    \entry{GRPgeneral}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=521db28bc462a18d42089bcf925e3265}{%
+           family={Ben-Artzi},
+           familyi={B\bibinithyphendelim A\bibinitperiod},
+           given={Matania},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=915199fe6758a7699faa79a4269de966}{%
+           family={Falcovitz},
+           familyi={F\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8b796798137cc4aa7362829464106cdc}
+      \strng{fullhash}{8b796798137cc4aa7362829464106cdc}
+      \strng{bibnamehash}{8b796798137cc4aa7362829464106cdc}
+      \strng{authorbibnamehash}{8b796798137cc4aa7362829464106cdc}
+      \strng{authornamehash}{8b796798137cc4aa7362829464106cdc}
+      \strng{authorfullhash}{8b796798137cc4aa7362829464106cdc}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{1}
+      \field{title}{A second-order {Godunov}-type scheme for compressible fluid dynamics}
+      \field{volume}{55}
+      \field{year}{1984}
+      \field{pages}{1\bibrangedash 32}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1016/0021-9991(84)90013-5
+      \endverb
+    \endentry
+    \entry{GRPpolytropic}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=521db28bc462a18d42089bcf925e3265}{%
+           family={Ben-Artzi},
+           familyi={B\bibinithyphendelim A\bibinitperiod},
+           given={Matania},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=102c6ad49eb8d37d03c2d1ca0934d452}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiequan},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=8fa1507b8822da70ffd6f4ee27879f21}{%
+           family={Warnecke},
+           familyi={W\bibinitperiod},
+           given={Gerald},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{94ede2e776109bac6b548cc755f6c374}
+      \strng{fullhash}{94ede2e776109bac6b548cc755f6c374}
+      \strng{bibnamehash}{94ede2e776109bac6b548cc755f6c374}
+      \strng{authorbibnamehash}{94ede2e776109bac6b548cc755f6c374}
+      \strng{authornamehash}{94ede2e776109bac6b548cc755f6c374}
+      \strng{authorfullhash}{94ede2e776109bac6b548cc755f6c374}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{1}
+      \field{title}{A direct {Eulerian} {GRP} scheme for compressible fluid flows}
+      \field{volume}{218}
+      \field{year}{2006}
+      \field{pages}{19\bibrangedash 43}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/j.jcp.2006.01.044
+      \endverb
+    \endentry
+    \entry{GRP}{article}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=102c6ad49eb8d37d03c2d1ca0934d452}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiequan},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=471e61c37bc3e62dbe8655e02a002343}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e06fa1bf4de2867b44b10a6497e9e353}
+      \strng{fullhash}{e06fa1bf4de2867b44b10a6497e9e353}
+      \strng{bibnamehash}{e06fa1bf4de2867b44b10a6497e9e353}
+      \strng{authorbibnamehash}{e06fa1bf4de2867b44b10a6497e9e353}
+      \strng{authornamehash}{e06fa1bf4de2867b44b10a6497e9e353}
+      \strng{authorfullhash}{e06fa1bf4de2867b44b10a6497e9e353}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{title}{Thermodynamical effects and high resolution methods for compressible fluid flows}
+      \field{volume}{343}
+      \field{year}{2017}
+      \field{pages}{340\bibrangedash 354}
+      \range{pages}{15}
+    \endentry
+    \entry{GRP_qi}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8e8d70e9ed839c7dd13484cddfcbf2a}{%
+           family={齐进},
+           familyi={齐\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {北京师范大学}%
+      }
+      \list{location}{1}{%
+        {北京}%
+      }
+      \strng{namehash}{d8e8d70e9ed839c7dd13484cddfcbf2a}
+      \strng{fullhash}{d8e8d70e9ed839c7dd13484cddfcbf2a}
+      \strng{bibnamehash}{d8e8d70e9ed839c7dd13484cddfcbf2a}
+      \strng{authorbibnamehash}{d8e8d70e9ed839c7dd13484cddfcbf2a}
+      \strng{authornamehash}{d8e8d70e9ed839c7dd13484cddfcbf2a}
+      \strng{authorfullhash}{d8e8d70e9ed839c7dd13484cddfcbf2a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{二维欧拉方程组广义黎曼问题数值建模及其应用}
+      \field{type}{phdthesis}
+      \field{year}{2017}
+    \endentry
+    \entry{du2018hermite}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=28ae734b46323cb0698877ff303b7e05}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Zhifang},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=102c6ad49eb8d37d03c2d1ca0934d452}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiequan},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1ad3fb483e2c7834a4195efe31474084}
+      \strng{fullhash}{1ad3fb483e2c7834a4195efe31474084}
+      \strng{bibnamehash}{1ad3fb483e2c7834a4195efe31474084}
+      \strng{authorbibnamehash}{1ad3fb483e2c7834a4195efe31474084}
+      \strng{authornamehash}{1ad3fb483e2c7834a4195efe31474084}
+      \strng{authorfullhash}{1ad3fb483e2c7834a4195efe31474084}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{title}{A {Hermite} {WENO} reconstruction for fourth order temporal accurate schemes based on the {GRP} solver for hyperbolic conservation laws}
+      \field{volume}{355}
+      \field{year}{2018}
+      \field{pages}{385\bibrangedash 396}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.jcp.2017.11.023
+      \endverb
+    \endentry
+    \entry{Gamma3-HWENO}{article}{}
+      \name{author}{3}{}{%
+        {{un=2,uniquepart=given,hash=5bf53ab8085e3f90d7063b50bb0af3ba}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiayin},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3729afea8778b7b4cf30262385170ca8}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Jianxian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5e65e7a254491f2233c600256bb945fb}
+      \strng{fullhash}{5e65e7a254491f2233c600256bb945fb}
+      \strng{bibnamehash}{5e65e7a254491f2233c600256bb945fb}
+      \strng{authorbibnamehash}{5e65e7a254491f2233c600256bb945fb}
+      \strng{authornamehash}{5e65e7a254491f2233c600256bb945fb}
+      \strng{authorfullhash}{5e65e7a254491f2233c600256bb945fb}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{title}{Multi-resolution {HWENO} schemes for hyperbolic conservation laws}
+      \field{volume}{446}
+      \field{year}{2021}
+      \field{pages}{110653}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jcp.2021.110653
+      \endverb
+    \endentry
+    \entry{ShuOsherProblem}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0316cefd59f32815e356c1128b2ef3c0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Chi-Wang},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4ee7c8daf846ee1eddbbe56e4d658d9}{%
+           family={Osher},
+           familyi={O\bibinitperiod},
+           given={Stanley},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4fbffa02bf93c691ea620ddacf364a14}
+      \strng{fullhash}{4fbffa02bf93c691ea620ddacf364a14}
+      \strng{bibnamehash}{4fbffa02bf93c691ea620ddacf364a14}
+      \strng{authorbibnamehash}{4fbffa02bf93c691ea620ddacf364a14}
+      \strng{authornamehash}{4fbffa02bf93c691ea620ddacf364a14}
+      \strng{authorfullhash}{4fbffa02bf93c691ea620ddacf364a14}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of computational physics}
+      \field{number}{1}
+      \field{title}{Efficient implementation of essentially non-oscillatory shock-capturing schemes, {II}}
+      \field{volume}{83}
+      \field{year}{1989}
+      \field{pages}{32\bibrangedash 78}
+      \range{pages}{47}
+    \endentry
+    \entry{ToroProblem}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a395d5e728cbe316bd2aa91da9ef1c72}{%
+           family={Titarev},
+           familyi={T\bibinitperiod},
+           given={Vladimir\bibnamedelima A},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d08402bc1d8b752e447abc9b0a2d039c}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={Eleuterio\bibnamedelima F},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ba73887bd63f7b7e7a6259f59bef3386}
+      \strng{fullhash}{ba73887bd63f7b7e7a6259f59bef3386}
+      \strng{bibnamehash}{ba73887bd63f7b7e7a6259f59bef3386}
+      \strng{authorbibnamehash}{ba73887bd63f7b7e7a6259f59bef3386}
+      \strng{authornamehash}{ba73887bd63f7b7e7a6259f59bef3386}
+      \strng{authorfullhash}{ba73887bd63f7b7e7a6259f59bef3386}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{1}
+      \field{title}{Finite-volume {WENO} schemes for three-dimensional conservation laws}
+      \field{volume}{201}
+      \field{year}{2004}
+      \field{pages}{238\bibrangedash 260}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1016/j.jcp.2004.05.015
+      \endverb
+    \endentry
+    \entry{frontStep-BlastProblem}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f4fa5d594441a86552b9d06ad366383e}{%
+           family={Woodward},
+           familyi={W\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c41785440d0a194370dd86cca9827c37}{%
+           family={Colella},
+           familyi={C\bibinitperiod},
+           given={Phillip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{aab463475319bf049b828a5bd94c5920}
+      \strng{fullhash}{aab463475319bf049b828a5bd94c5920}
+      \strng{bibnamehash}{aab463475319bf049b828a5bd94c5920}
+      \strng{authorbibnamehash}{aab463475319bf049b828a5bd94c5920}
+      \strng{authornamehash}{aab463475319bf049b828a5bd94c5920}
+      \strng{authorfullhash}{aab463475319bf049b828a5bd94c5920}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{1}
+      \field{title}{The numerical simulation of two-dimensional fluid flow with strong shocks}
+      \field{volume}{54}
+      \field{year}{1984}
+      \field{pages}{115\bibrangedash 173}
+      \range{pages}{59}
+      \verb{doi}
+      \verb 10.1016/0021-9991(84)90142-6
+      \endverb
+    \endentry
+    \entry{LPDRP}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8f6b674c82976f8fefc7c041a2eda08b}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Huazhong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=1b7b12cbf888714a9097268768e7d5f4}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Tiegang},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0f4cfd5436921c74eae081228f3628b0}
+      \strng{fullhash}{0f4cfd5436921c74eae081228f3628b0}
+      \strng{bibnamehash}{0f4cfd5436921c74eae081228f3628b0}
+      \strng{authorbibnamehash}{0f4cfd5436921c74eae081228f3628b0}
+      \strng{authornamehash}{0f4cfd5436921c74eae081228f3628b0}
+      \strng{authorfullhash}{0f4cfd5436921c74eae081228f3628b0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{2}
+      \field{title}{A note on the conservative schemes for the {Euler} equations}
+      \field{volume}{218}
+      \field{year}{2006}
+      \field{pages}{451\bibrangedash 459}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.jcp.2006.03.035
+      \endverb
+    \endentry
+    \entry{RPexample}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=79143e57d1d5b0bf4ed0ce601a69d826}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ee},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=102c6ad49eb8d37d03c2d1ca0934d452}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiequan},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=8f6b674c82976f8fefc7c041a2eda08b}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Huazhong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{3c7870ee3d547353c9a52544f6891bd6}
+      \strng{fullhash}{3c7870ee3d547353c9a52544f6891bd6}
+      \strng{bibnamehash}{3c7870ee3d547353c9a52544f6891bd6}
+      \strng{authorbibnamehash}{3c7870ee3d547353c9a52544f6891bd6}
+      \strng{authornamehash}{3c7870ee3d547353c9a52544f6891bd6}
+      \strng{authorfullhash}{3c7870ee3d547353c9a52544f6891bd6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications in Computational Physics}
+      \field{number}{3}
+      \field{title}{Accuracy of the adaptive {GRP} scheme and the simulation of {2-D} {Riemann} problems for compressible {Euler} equations}
+      \field{volume}{10}
+      \field{year}{2011}
+      \field{pages}{577\bibrangedash 609}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.4208/cicp.280410.300710a
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

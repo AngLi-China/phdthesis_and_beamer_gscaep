@@ -1,0 +1,37 @@
+\def\usewhat{xelatex} % 定义编译方式 pdflatex，dvipdfmx，or xelatex
+\def\xuewei{Doctor} % 定义学位 Doctor or Master
+\def\xueke{Science} % 定义学科 Engineering，Science，Management，Arts，Philosophy，Economics，Laws，Education，or History
+\documentclass[zihao=-4,openany,twoside,UTF8,fontset=windows]{ctexbook}
+
+\include{extra/setup/type.tex} % 硕博类型
+\include{extra/setup/package.tex} % 引用的宏包
+
+\begin{document}
+
+\include{extra/setup/Definition.tex} % 文本格式定义
+\include{extra/setup/format.tex}
+
+\include{extra/cover.tex} % 封面
+\include{extra/Authorization.tex} % 承诺
+
+\frontmatter % 开始前言
+\include{extra/abstract.tex} % 中英文摘要
+\include{extra/setup/content.tex} % 目录
+
+\mainmatter % 开始主体
+\defaultfont\sloppy\raggedbottom
+\def\totalchapternum{5} % 论文总章数
+\foreach \n in {1,...,\totalchapternum}{\include{chapter\n/chapter\n.tex}}
+\include{extra/setup/reference.tex} % 参考文献 
+
+\appmatter % 开始附录
+% \include{appendix/A.tex} % 附录
+% \include{appendix/B.tex} % 附录
+% \include{appendix/C.tex} % 附录
+% \include{appendix/D.tex} % 附录
+
+\backmatter % 开始后记
+\include{extra/publications.tex} % 所发文章
+\include{extra/acknowledgements.tex} % 致谢
+
+\end{document}
